@@ -181,7 +181,7 @@ A map of the EmDash ecosystem: what EmDash can do and what's available for it, f
 
 *Designs built for a particular kind of site: blogs, publications, restaurants, shops, portfolios, and more.*
 
-- [Bravada for Astro](https://github.com/vhscom/emdash-theme-bravada) - Astro + EmDash port of Cryout Creations' popular Bravada magazine and editorial WordPress theme.
+- [Bravada for Astro](https://github.com/vhscom/emdash-theme-bravada) - Astro + EmDash port of Cryout Creations' popular Bravada magazine and editorial WordPress theme. *Pre-1.0*
 - [DashCommerce Starter](https://github.com/emdashCommerce/starter) - Official Astro + EmDash e-commerce storefront starter template for `@dashcommerce/core`. ([Live Demo](https://demo.dashcommerce.dev))
 - [DinkusKit Store / Services / Marketing Starters](https://github.com/dinkuskit/template-store) - Astro + EmDash starter templates for storefronts, service businesses, and marketing sites. ([Services](https://github.com/dinkuskit/template-services), [Marketing](https://github.com/dinkuskit/template-marketing))
 - [emdash-blog-ja](https://github.com/okinako-chan/emdash-blog-ja) - Blog template optimized for writing in Japanese, on Cloudflare Workers.
@@ -189,17 +189,17 @@ A map of the EmDash ecosystem: what EmDash can do and what's available for it, f
 - [emdash-heroui-blog](https://github.com/alfariesh/emdash-heroui-blog) - Blog theme built on EmDash, HeroUI, and Tailwind v4, running on Workers with D1 and R2. ([Live Demo](https://emdash.alfariesh.ai.id))
 - [emdash_property_web_builder](https://github.com/RealEstateWebTools/emdash_property_web_builder) - Real estate website builder and property catalog CMS template.
 - [emdash-templates by Majestic Labs](https://github.com/majesticlabs-dev/emdash-templates) - Collection of modern starter templates for business and agency sites.
-- [emdash-theme-mainstreet](https://github.com/ecropolis/emdash-theme-mainstreet) - Service-business theme with services, pricing, team, hours, booking CTAs, and the no-code Compass Customizer.
+- [emdash-theme-mainstreet](https://github.com/ecropolis/emdash-theme-mainstreet) - Service-business theme with services, pricing, team, hours, booking CTAs, and the no-code Compass Customizer. *Pre-1.0*
 - [emdash-theme-omarchy](https://github.com/siygle/emdash-theme-omarchy) - Omarchy-inspired blog theme for EmDash featuring Hyprland tiling window aesthetics, a Waybar top bar, and Omarchy color palettes.
-- [emdash-theme-supper](https://github.com/ecropolis/emdash-theme-supper) - Restaurant theme with structured menus, dietary flags, hours, gallery, reviews, and reservation CTAs.
+- [emdash-theme-supper](https://github.com/ecropolis/emdash-theme-supper) - Restaurant theme with structured menus, dietary flags, hours, gallery, reviews, and reservation CTAs. *Pre-1.0*
 - [Holly Template](https://github.com/Whitney-Bateson-Digital-Strategy/Template_Holly-Astro-EmDash_Websites) - Agency website template built on Astro and EmDash.
 - [Kexi](https://github.com/AK-103U/kexi) - Modern Cloudflare-native blog theme built on Astro and EmDash (Chinese-language docs).
-- [Lexington Themes](https://lexingtonthemes.com/templates/astro-emdash-templates) - 44 polished Astro themes with EmDash variants, complete with reusable components and built-in content collections.
-- [Masthead](https://github.com/ondelva/astro-theme-masthead) - Newspaper-style publication and editorial news theme for EmDash and Astro (MIT).
-- [mise](https://github.com/mo3moha/mise) - Reservation and booking starter built on Astro + Cloudflare Workers + D1, with full internationalization (i18n) and automated email flows.
+- [Lexington Themes](https://lexingtonthemes.com/templates/astro-emdash-templates) - 44 polished Astro themes with EmDash variants, complete with reusable components and built-in content collections. *Paid · Closed source*
+- [Masthead](https://github.com/ondelva/astro-theme-masthead) - Newspaper-style publication and editorial news theme for EmDash and Astro (MIT). *Pre-1.0*
+- [mise](https://github.com/mo3moha/mise) - Reservation and booking starter built on Astro + Cloudflare Workers + D1, with full internationalization (i18n) and automated email flows. *Inactive*
 - [MyTimeline](https://github.com/RieTamura/emdash-theme-mytimeline) - Timeline-style theme merging blog posts, portfolio works, Bluesky, and RSS into one feed.
-- [Persona Bio](https://github.com/ahmetcigsar/emdash-theme-persona-bio) - Personal profile, portfolio, and micro-blogging theme for creators (MIT).
-- [star-lite-docs](https://github.com/gruntlord5/star-lite-docs) - Starlight-style technical documentation experience powered by EmDash collections with visual in-browser editing.
+- [Persona Bio](https://github.com/ahmetcigsar/emdash-theme-persona-bio) - Personal profile, portfolio, and micro-blogging theme for creators (MIT). *Pre-1.0*
+- [star-lite-docs](https://github.com/gruntlord5/star-lite-docs) - Starlight-style technical documentation experience powered by EmDash collections with visual in-browser editing. *Pre-1.0 · Inactive*
 - [terrasuite-emdash](https://github.com/havenswift-hosting/terrasuite-emdash) - Estate agency and real-estate site template for EmDash featuring a property collection, fast filtered search, and agency landing pages. ([Live Demo](https://emdash.terrasuite.uk))
 
 ### Starter Kits & Theme Tools
@@ -207,14 +207,14 @@ A map of the EmDash ecosystem: what EmDash can do and what's available for it, f
 *Project setups for specific hosts and databases, plus tools for building and switching themes.*
 
 - [astro-cms (HappyMonkeyAI)](https://github.com/HappyMonkeyAI/astro-cms) - Agent-native, self-hosted CMS distribution on Astro and EmDash with a WordPress migration path.
-- [astro-emdash-libsql-r2-starter](https://github.com/milzamsz/astro-emdash-libsql-r2-starter) - Production-ready Astro + EmDash starter for Dokploy with native libSQL/Turso and Cloudflare R2 storage.
+- [astro-emdash-libsql-r2-starter](https://github.com/milzamsz/astro-emdash-libsql-r2-starter) - Production-ready Astro + EmDash starter for Dokploy with native libSQL/Turso and Cloudflare R2 storage. *Pre-1.0*
 - [astro-emdash-local-workshop](https://github.com/pwlee-xyz/astro-emdash-local-workshop) - Local-first Astro and EmDash portfolio starter designed for workshops.
-- [astro-emdash-sqlite-r2-starter](https://github.com/milzamsz/astro-emdash-sqlite-r2-starter) - Self-hostable marketing, blog, and docs starter featuring SQLite + Cloudflare R2, typed Astro pages, FTS, and SEO.
+- [astro-emdash-sqlite-r2-starter](https://github.com/milzamsz/astro-emdash-sqlite-r2-starter) - Self-hostable marketing, blog, and docs starter featuring SQLite + Cloudflare R2, typed Astro pages, FTS, and SEO. *Pre-1.0*
 - [Baseline](https://github.com/Vermeulen-Solutions/baseline) - Agent-first web starter for Astro and EmDash with a shared fluid design system and "Platform Profiles" for EmDash relational content.
 - [compose-cli](https://github.com/Compose-Project/compose-cli) - Command-line scaffolding tool for the Compose blank template.
 - [emdash-admin-theme-classic](https://github.com/marks-zyz/emdash-admin-theme-classic) - Classic `wp-admin` design token and layout geometry theme for the EmDash admin panel without core patching. ([npm](https://www.npmjs.com/package/emdash-admin-theme-classic))
-- [emdash-easy-setup](https://github.com/kwonq10/emdash-easy-setup) - Beginner-oriented Claude Code skill for trying EmDash locally on Windows (Japanese).
-- [emdash-railway](https://github.com/aimranov27/emdash-railway) - Railway deployment starter template for EmDash CMS backed by PostgreSQL, featuring a locked setup wizard and automated tested updates.
+- [emdash-easy-setup](https://github.com/kwonq10/emdash-easy-setup) - Beginner-oriented Claude Code skill for trying EmDash locally on Windows (Japanese). *External account*
+- [emdash-railway](https://github.com/aimranov27/emdash-railway) - Railway deployment starter template for EmDash CMS backed by PostgreSQL, featuring a locked setup wizard and automated tested updates. *External account*
 - [emdash-template-switcher](https://github.com/pk1983/emdash-template-switcher) - Admin-switchable site templates using an interactive CLI.
 - [`@wptom/cms-emdash`](https://www.npmjs.com/package/@wptom/cms-emdash) - Content loader and seed generator mapping EmDash collections, fields, and block types to WPTom Astro templates.
 
@@ -222,7 +222,7 @@ A map of the EmDash ecosystem: what EmDash can do and what's available for it, f
 
 ## Plugins
 
-Plugins add features to your site, and there are two kinds. *Sandboxed* plugins run isolated, with only the permissions they declare, and many can be installed from the plugin registry inside the admin panel. *Native* plugins are npm packages that are added in code, or by your AI agent. See the [Plugin Overview](https://docs.emdashcms.com/plugins/overview/) and [Choosing a Plugin Format](https://docs.emdashcms.com/plugins/creating-plugins/choosing-a-format/) for details.
+Plugins add features to your site, and there are two kinds. *Sandboxed* plugins run isolated, with only the permissions they declare, and many can be installed from the plugin registry inside the admin panel. *Native* plugins are npm packages that are added in code, or by your AI agent. See the [Plugin Overview](https://docs.emdashcms.com/plugins/overview/) and [Choosing a Plugin Format](https://docs.emdashcms.com/plugins/creating-plugins/choosing-a-format/) for details. Labels at the end of an entry, such as *Admin install*, are explained in the Glossary.
 
 ### Official Plugins
 
@@ -245,29 +245,29 @@ Plugins add features to your site, and there are two kinds. *Sandboxed* plugins 
 *Help search engines and AI assistants find, understand, and rank your site.*
 
 - [aeo-ultimate-emdash](https://github.com/tampawebtech/aeo-ultimate-emdash) - Answer Engine Optimization (AEO) and semantic knowledge graph for AI search agents.
-- [Agent Ready (WorkPods)](https://plugins.emdashcms.com/plugins/@workpods.ai/agent-ready) - Flags what search engines, AI answers, and agents trip on in content. ([Source](https://github.com/workpodsagents/emdash-agent-ready))
+- [Agent Ready (WorkPods)](https://plugins.emdashcms.com/plugins/@workpods.ai/agent-ready) - Flags what search engines, AI answers, and agents trip on in content. ([Source](https://github.com/workpodsagents/emdash-agent-ready)) *Admin install*
 - [AI Visibility Checker](https://github.com/meelis545/qqq-emdash-ai-visibility) - Checks whether ChatGPT, Gemini, Claude, and Perplexity crawlers can read the site.
-- [Crosslink (`@meekmedia.bsky.social/crosslink`)](https://plugins.emdashcms.com/plugins/@meekmedia.bsky.social/crosslink) - Real-time internal link suggestions while writing, orphan page reports, and a related-posts JSON route.
-- [emdash-human-sitemap](https://github.com/masonjames/emdash-human-sitemap) - Visual, accessible sitemap block and Astro component for human visitors.
+- [Crosslink (`@meekmedia.bsky.social/crosslink`)](https://plugins.emdashcms.com/plugins/@meekmedia.bsky.social/crosslink) - Real-time internal link suggestions while writing, orphan page reports, and a related-posts JSON route. *Admin install*
+- [emdash-human-sitemap](https://github.com/masonjames/emdash-human-sitemap) - Visual, accessible sitemap block and Astro component for human visitors. *Inactive*
 - [emdash-plugin-indexnow](https://github.com/jesseagleboy/emdash-plugin-indexnow) - Automatically pings IndexNow-participating search engines whenever EmDash pages or events are published or unpublished. ([npm](https://www.npmjs.com/package/emdash-plugin-indexnow))
-- [emdash-plugin-indexnow (tagperfect)](https://github.com/tagperfect/emdash-plugin-indexnow) - Sends URLs to IndexNow on publish, update, unpublish and delete, with per-locale URL rules, a submission log and a dashboard widget. ([npm](https://www.npmjs.com/package/@tagperfect/emdash-plugin-indexnow), [Registry](https://plugins.emdashcms.com/plugins/@tagperfect.eu/indexnow))
-- [emdash-plugin-seo (DreamsEngine)](https://github.com/DreamsEngine/emdash-plugin-seo) - AI-assisted SEO analysis tool with on-page optimization recommendations.
-- [emdash-plugin-seo (jdevalk)](https://github.com/jdevalk/emdash-plugin-seo) - Comprehensive Yoast-style SEO suite: Open Graph, Twitter Cards, canonical links, robots rules, and JSON-LD schema.
-- [emdash-schema-identity](https://github.com/monprez/emdash-schema-identity) - Structured data, Schema.org JSON-LD, and E-E-A-T author/organization credentials plugin for EmDash sites.
-- [emdash-seo-core](https://github.com/masonjames/emdash-seo-core) - Lightweight subset-first SEO metadata plugin for EmDash CMS.
-- [enhancely-emdash](https://github.com/enhancely/enhancely-emdash) - AI-generated structured data and JSON-LD Schema.org graph builder.
-- [Instant Indexer (`@peachfinthemes.com/instant-indexer`)](https://plugins.emdashcms.com/plugins/@peachfinthemes.com/instant-indexer) - Sandboxed registry plugin that notifies search engines via IndexNow when public pages change.
-- [Japanese SEO Checker](https://plugins.emdashcms.com/plugins/@100xmarketing.jp/seo-ja-checker) - On-save SEO checks tuned for Japanese content.
-- [jp-search](https://github.com/Ghost3nexus/emdash-jp-search) - Japanese bigram site search for Node deployments where built-in FTS5 search cannot run. ([Registry](https://plugins.emdashcms.com/plugins/@tomorrowproof-ai.com/jp-search))
-- [Motoyomi](https://github.com/LLL-development/motoyomi) - Local Japanese internal-link and related-article suggestions, with no external AI. The same publisher (LLL) has ~14 more small bilingual registry tools: heading review, image-alt review, URL-migration audit, redirect-map review, scheduled unpublish, RSS feed, and more. ([Registry](https://plugins.emdashcms.com/plugins/@mrhandsome39.bsky.social/motoyomi))
-- [Page SEO Inspector (`@agenticecom.net/rendered-seo-inspector`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/rendered-seo-inspector) - Inspects rendered page metadata (titles, descriptions, headings, social tags) to flag missing or inconsistent SEO output.
-- [plugin-ai-discovery](https://github.com/awesomeem/plugin-ai-discovery) - Generates machine-readable `llms.txt`, agent manifests, and semantic discovery links.
-- [Publish Check](https://github.com/smrht/emdash-plugins) - Pre-publish checks for titles, descriptions, headings, alt text, links, and HTML. The same repo has a [Link Check](https://plugins.emdashcms.com/plugins/@emdashplugins.bsky.social/backlinksbeheer-links) for outbound links. ([Registry](https://plugins.emdashcms.com/plugins/@emdashplugins.bsky.social/publish-check))
-- [QuixSEO](https://github.com/emquix-com/QuixSEO) - MIT SEO toolkit with editorial guidance, structured data, and reviewed sitemaps. ([Registry](https://plugins.emdashcms.com/plugins/@emquix.com/quixseo))
-- [seo-guard (`@eclipsedigi.bsky.social/seo-guard`)](https://plugins.emdashcms.com/plugins/@eclipsedigi.bsky.social/seo-guard) - Pre-publish guardrail that blocks publishing posts failing basic SEO checks (title/description length, featured image, slug). ([GitHub](https://github.com/Eclipse-Digital-Inc/emdash-plugins))
-- [SEO & Schema Markup (`@moorage.dev/seo`)](https://github.com/moorage-dev/moorage) - Yoast-style SEO plugin with JSON-LD structured data, Google SERP preview, SEO checks, `noindex` controls, and WordPress redirect imports. ([Registry](https://plugins.emdashcms.com/plugins/@moorage.dev/seo))
-- [SEO Suite (`@nookeshk.bsky.social/seo-suite`)](https://plugins.emdashcms.com/plugins/@nookeshk.bsky.social/seo-suite) - Focus-keyphrase analysis, readability scoring, JSON-LD schema, redirect management, and SEO health checks.
-- [SerpDelta](https://github.com/SerpDelta/emdash-plugin) - Google Search Console keyword and ranking shift tracking directly in the dashboard.
+- [emdash-plugin-indexnow (tagperfect)](https://github.com/tagperfect/emdash-plugin-indexnow) - Sends URLs to IndexNow on publish, update, unpublish and delete, with per-locale URL rules, a submission log and a dashboard widget. ([npm](https://www.npmjs.com/package/@tagperfect/emdash-plugin-indexnow)) *[Admin install](https://plugins.emdashcms.com/plugins/@tagperfect.eu/indexnow)*
+- [emdash-plugin-seo (DreamsEngine)](https://github.com/DreamsEngine/emdash-plugin-seo) - AI-assisted SEO analysis tool with on-page optimization recommendations. *Inactive*
+- [emdash-plugin-seo (jdevalk)](https://github.com/jdevalk/emdash-plugin-seo) - Comprehensive Yoast-style SEO suite: Open Graph, Twitter Cards, canonical links, robots rules, and JSON-LD schema. *Pre-1.0*
+- [emdash-schema-identity](https://github.com/monprez/emdash-schema-identity) - Structured data, Schema.org JSON-LD, and E-E-A-T author/organization credentials plugin for EmDash sites. *[Admin install](https://plugins.emdashcms.com/plugins/@monprez.se/schema-identity)*
+- [emdash-seo-core](https://github.com/masonjames/emdash-seo-core) - Lightweight subset-first SEO metadata plugin for EmDash CMS. *Pre-1.0 · Inactive*
+- [enhancely-emdash](https://github.com/enhancely/enhancely-emdash) - AI-generated structured data and JSON-LD Schema.org graph builder. *External account · Pre-1.0*
+- [Instant Indexer (`@peachfinthemes.com/instant-indexer`)](https://plugins.emdashcms.com/plugins/@peachfinthemes.com/instant-indexer) - Sandboxed registry plugin that notifies search engines via IndexNow when public pages change. *Admin install*
+- [Japanese SEO Checker](https://plugins.emdashcms.com/plugins/@100xmarketing.jp/seo-ja-checker) - On-save SEO checks tuned for Japanese content. *Admin install*
+- [jp-search](https://github.com/Ghost3nexus/emdash-jp-search) - Japanese bigram site search for Node deployments where built-in FTS5 search cannot run. *[Admin install](https://plugins.emdashcms.com/plugins/@tomorrowproof-ai.com/jp-search)*
+- [Motoyomi](https://github.com/LLL-development/motoyomi) - Local Japanese internal-link and related-article suggestions, with no external AI. The same publisher (LLL) has ~14 more small bilingual registry tools: heading review, image-alt review, URL-migration audit, redirect-map review, scheduled unpublish, RSS feed, and more. *[Admin install](https://plugins.emdashcms.com/plugins/@mrhandsome39.bsky.social/motoyomi)*
+- [Page SEO Inspector (`@agenticecom.net/rendered-seo-inspector`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/rendered-seo-inspector) - Inspects rendered page metadata (titles, descriptions, headings, social tags) to flag missing or inconsistent SEO output. *Admin install*
+- [plugin-ai-discovery](https://github.com/awesomeem/plugin-ai-discovery) - Generates machine-readable `llms.txt`, agent manifests, and semantic discovery links. *Pre-1.0 · Inactive*
+- [Publish Check](https://github.com/smrht/emdash-plugins) - Pre-publish checks for titles, descriptions, headings, alt text, links, and HTML. The same repo has a [Link Check](https://plugins.emdashcms.com/plugins/@emdashplugins.bsky.social/backlinksbeheer-links) for outbound links. *[Admin install](https://plugins.emdashcms.com/plugins/@emdashplugins.bsky.social/publish-check)*
+- [QuixSEO](https://github.com/emquix-com/QuixSEO) - MIT SEO toolkit with editorial guidance, structured data, and reviewed sitemaps. *[Admin install](https://plugins.emdashcms.com/plugins/@emquix.com/quixseo)*
+- [seo-guard (`@eclipsedigi.bsky.social/seo-guard`)](https://plugins.emdashcms.com/plugins/@eclipsedigi.bsky.social/seo-guard) - Pre-publish guardrail that blocks publishing posts failing basic SEO checks (title/description length, featured image, slug). ([GitHub](https://github.com/Eclipse-Digital-Inc/emdash-plugins)) *Admin install*
+- [SEO & Schema Markup (`@moorage.dev/seo`)](https://github.com/moorage-dev/moorage) - Yoast-style SEO plugin with JSON-LD structured data, Google SERP preview, SEO checks, `noindex` controls, and WordPress redirect imports. *[Admin install](https://plugins.emdashcms.com/plugins/@moorage.dev/seo)*
+- [SEO Suite (`@nookeshk.bsky.social/seo-suite`)](https://plugins.emdashcms.com/plugins/@nookeshk.bsky.social/seo-suite) - Focus-keyphrase analysis, readability scoring, JSON-LD schema, redirect management, and SEO health checks. ([Source](https://github.com/nookeshkarri7/emdash-seo-suite-plugin)) *Admin install*
+- [SerpDelta](https://github.com/SerpDelta/emdash-plugin) - Google Search Console keyword and ranking shift tracking directly in the dashboard. *External account · Pre-1.0 · Inactive*
 - [sph-emdash-plugin-sitemap-rebuild](https://github.com/merrickma/sph-emdash-plugin-sitemap-rebuild) - Automatically dispatches background sitemap rebuilds upon publishing content.
 
 ### Analytics
@@ -275,103 +275,103 @@ Plugins add features to your site, and there are two kinds. *Sandboxed* plugins 
 *See who visits your site and what they read.*
 
 - [Analytics & Cookies (`@moorage/plugin-analytics`)](https://github.com/moorage-dev/moorage/tree/main/packages/plugin-analytics) - GA4, GTM, Meta Pixel, Clarity, LinkedIn, TikTok, Plausible and Umami by ID, held back by a cookie banner (seven languages, Consent Mode v2) until the visitor agrees. ([npm](https://www.npmjs.com/package/@moorage/plugin-analytics))
-- [Dynamic QR (`@nookeshk.bsky.social/dynamic-qr`)](https://plugins.emdashcms.com/plugins/@nookeshk.bsky.social/dynamic-qr) - Generates customizable dynamic QR codes with scan analytics in EmDash.
-- [em-analytics-hub](https://github.com/facuzarate04/em-analytics-hub) - Privacy-first analytics suite with custom conversion funnels, goals, and campaign attribution.
-- [em-content-insights](https://github.com/facuzarate04/em-content-insights) - Privacy-respecting post analytics (read depth, read rate, average time on page, referrers).
-- [emdash-plugin-analytics (eisbachcode)](https://github.com/eisbachcode/emdash-plugin-analytics) - Cloudflare Web Analytics on the EmDash dashboard with per-entry view counters and MCP tools. ([npm](https://www.npmjs.com/package/@eisbachcode/emdash-plugin-analytics))
-- [emdash-plugin-analytics (MosierData)](https://github.com/MosierData/emdash-plugin-analytics) - Google Tag Manager, GA4, Search Console tracking, UTM attribution, and call tracking.
+- [Dynamic QR (`@nookeshk.bsky.social/dynamic-qr`)](https://plugins.emdashcms.com/plugins/@nookeshk.bsky.social/dynamic-qr) - Generates customizable dynamic QR codes with scan analytics in EmDash. ([Source](https://github.com/nookeshkarri7/emdash-dynamic-qr)) *Admin install*
+- [em-analytics-hub](https://github.com/facuzarate04/em-analytics-hub) - Privacy-first analytics suite with custom conversion funnels, goals, and campaign attribution. *Pre-1.0 · Inactive*
+- [em-content-insights](https://github.com/facuzarate04/em-content-insights) - Privacy-respecting post analytics (read depth, read rate, average time on page, referrers). *Pre-1.0 · Inactive*
+- [emdash-plugin-analytics (eisbachcode)](https://github.com/eisbachcode/emdash-plugin-analytics) - Cloudflare Web Analytics on the EmDash dashboard with per-entry view counters and MCP tools. ([npm](https://www.npmjs.com/package/@eisbachcode/emdash-plugin-analytics)) *[Admin install](https://plugins.emdashcms.com/plugins/@eisbachcode.de/analytics)*
+- [emdash-plugin-analytics (MosierData)](https://github.com/MosierData/emdash-plugin-analytics) - Google Tag Manager, GA4, Search Console tracking, UTM attribution, and call tracking. *External account · Inactive*
 - [emdash-plugin-openanalytics](https://github.com/BlackSwampAI/emdash-plugin-openanalytics) - Native EmDash CMS integration for OpenAnalytics.
 - [emdash-umami (tdhftw)](https://github.com/tdhftw/emdash-umami) - Umami analytics dashboard inside the EmDash admin, for self-hosted Umami or Umami Cloud.
-- [`@plukio/emdash-analytics`](https://www.npmjs.com/package/@plukio/emdash-analytics) - Native EmDash plugin that tracks first-party analytics events and routes them to PostHog and GA4.
-- [Post Views (`@desidashlab.bsky.social/post-views`)](https://plugins.emdashcms.com/plugins/@desidashlab.bsky.social/post-views) - Privacy-first self-hosted post view counter for the admin dashboard and editor.
-- [statistics-em](https://github.com/6arshid/statistics-em) - Real-time visit analytics plugin tracking daily and historical page view breakdowns.
-- [Umami Analytics (`@shane.bsky.shas.am/emdash-umami-analytics`)](https://plugins.emdashcms.com/plugins/@shane.bsky.shas.am/emdash-umami-analytics) - Displays Umami traffic metrics, top pages, referrers, and per-entry view counts inside the EmDash admin.
+- [`@plukio/emdash-analytics`](https://www.npmjs.com/package/@plukio/emdash-analytics) - Native EmDash plugin that tracks first-party analytics events and routes them to PostHog and GA4. *External account · Pre-1.0*
+- [Post Views (`@desidashlab.bsky.social/post-views`)](https://plugins.emdashcms.com/plugins/@desidashlab.bsky.social/post-views) - Privacy-first self-hosted post view counter for the admin dashboard and editor. ([Source](https://github.com/desidashlab/emdash-post-views)) *Admin install*
+- [statistics-em](https://github.com/6arshid/statistics-em) - Real-time visit analytics plugin tracking daily and historical page view breakdowns. *Inactive*
+- [Umami Analytics (`@shane.bsky.shas.am/emdash-umami-analytics`)](https://plugins.emdashcms.com/plugins/@shane.bsky.shas.am/emdash-umami-analytics) - Displays Umami traffic metrics, top pages, referrers, and per-entry view counts inside the EmDash admin. ([Source](https://github.com/shanelord01/emdash-umami-analytics)) *Admin install*
 
 ### Email & Newsletters
 
 *Send email from your site (sign-in links, form notifications, invites) and run a newsletter.*
 
-- [Bulletin (`@meekmedia.bsky.social/bulletin`)](https://plugins.emdashcms.com/plugins/@meekmedia.bsky.social/bulletin) - Privacy-first newsletter subscriber manager with double opt-in and one-click post-to-email broadcasts.
-- [Cloudflare Email Sending (cfreear)](https://plugins.emdashcms.com/plugins/@cfreear.bsky.social/emdash-cf-email-sending) - Alternative Cloudflare Email Sending provider.
-- [Emails (alpineux)](https://plugins.emdashcms.com/plugins/@alpineux.bsky.social/emails) - Sends sign-in links, invites, and messages through Cloudflare Email Sending from the site's own domain.
-- [emdash-aws-ses](https://github.com/AB6162/emdash-aws-ses) - Amazon Simple Email Service (SES) SMTP transport.
+- [Bulletin (`@meekmedia.bsky.social/bulletin`)](https://plugins.emdashcms.com/plugins/@meekmedia.bsky.social/bulletin) - Privacy-first newsletter subscriber manager with double opt-in and one-click post-to-email broadcasts. *Admin install*
+- [Cloudflare Email Sending (cfreear)](https://plugins.emdashcms.com/plugins/@cfreear.bsky.social/emdash-cf-email-sending) - Alternative Cloudflare Email Sending provider. *Admin install*
+- [Emails (alpineux)](https://plugins.emdashcms.com/plugins/@alpineux.bsky.social/emails) - Sends sign-in links, invites, and messages through Cloudflare Email Sending from the site's own domain. *Admin install*
+- [emdash-aws-ses](https://github.com/AB6162/emdash-aws-ses) - Amazon Simple Email Service (SES) SMTP transport. *External account*
 - [emdash-light-smtp](https://github.com/apsulis/emdash-light-smtp) - Light, hardened SMTP provider for self-hosted Node.js EmDash with mandatory TLS. ([npm](https://www.npmjs.com/package/@apsulis/emdash-light-smtp))
-- [emdash-mailerlite](https://github.com/ecommerceave/emdash-mailerlite) - MailerLite integration displaying subscribers, groups, campaign reports, and signup forms in the EmDash dashboard. ([Registry](https://plugins.emdashcms.com/plugins/@ecommerceave.com/emdash-mailerlite))
+- [emdash-mailerlite](https://github.com/ecommerceave/emdash-mailerlite) - MailerLite integration displaying subscribers, groups, campaign reports, and signup forms in the EmDash dashboard. *[Admin install](https://plugins.emdashcms.com/plugins/@ecommerceave.com/emdash-mailerlite) · External account*
 - [emdash-mailing-list](https://github.com/WoofyIO/emdash-mailing-list) - Lightweight newsletter and mailing list management with double opt-in and Markdown broadcasts.
-- [emdash-plugin-anymail](https://github.com/nexed-tech/emdash-plugin-anymail) - Universal HTTP email dispatcher connecting Maileroo, Mailgun, Postmark, and Resend via lightweight fetch calls. ([npm](https://www.npmjs.com/package/emdash-plugin-anymail))
-- [emdash-plugin-apimail](https://www.npmjs.com/package/@devbitme/emdash-plugin-apimail) - Transactional email over provider HTTP APIs: Brevo, Mailgun, Mailjet, Maileroo, Postmark, Mailchimp Transactional and more.
-- [emdash-plugin-cloudflare-email](https://github.com/velvee-ai/emdash-plugin-cloudflare-email) - Native Cloudflare Email Routing & Sending using direct Workers bindings (no external API keys).
-- [emdash-plugin-compass-mail](https://github.com/ecropolis/emdash-plugin-compass-mail) - Email transport plugin delivering EmDash system and form emails through SendGrid or Resend.
-- [emdash-plugin-emailit](https://github.com/dennisklappe/emdash-plugin-emailit) - Transactional email transport plugin powered by Emailit.
-- [emdash-plugin-lettermint](https://github.com/jdevalk/emdash-plugin-lettermint) - Lettermint email service integration.
-- [emdash-plugin-postmark](https://github.com/drudge/emdash-plugin-postmark) - Fast, deliverable transactional email delivery through Postmark.
-- [emdash-plugin-resend](https://github.com/maikunari/emdash-plugin-resend) - Transactional and marketing email delivery via the Resend API.
+- [emdash-plugin-anymail](https://github.com/nexed-tech/emdash-plugin-anymail) - Universal HTTP email dispatcher connecting Maileroo, Mailgun, Postmark, and Resend via lightweight fetch calls. ([npm](https://www.npmjs.com/package/emdash-plugin-anymail)) *External account*
+- [emdash-plugin-apimail](https://www.npmjs.com/package/@devbitme/emdash-plugin-apimail) - Transactional email over provider HTTP APIs: Brevo, Mailgun, Mailjet, Maileroo, Postmark, Mailchimp Transactional and more. *External account*
+- [emdash-plugin-cloudflare-email](https://github.com/velvee-ai/emdash-plugin-cloudflare-email) - Native Cloudflare Email Routing & Sending using direct Workers bindings (no external API keys). *Pre-1.0 · Inactive*
+- [emdash-plugin-compass-mail](https://github.com/ecropolis/emdash-plugin-compass-mail) - Email transport plugin delivering EmDash system and form emails through SendGrid or Resend. *External account · Pre-1.0*
+- [emdash-plugin-emailit](https://github.com/dennisklappe/emdash-plugin-emailit) - Transactional email transport plugin powered by Emailit. *External account*
+- [emdash-plugin-lettermint](https://github.com/jdevalk/emdash-plugin-lettermint) - Lettermint email service integration. *External account · Pre-1.0 · Inactive*
+- [emdash-plugin-postmark](https://github.com/drudge/emdash-plugin-postmark) - Fast, deliverable transactional email delivery through Postmark. *External account · Inactive*
+- [emdash-plugin-resend](https://github.com/maikunari/emdash-plugin-resend) - Transactional and marketing email delivery via the Resend API. *External account · Pre-1.0 · Inactive*
 - [emdash-postal](https://github.com/undefined-charity/emdash-postal) - Integration with self-hosted Postal mail servers for privacy-conscious applications.
-- [emdash-resend](https://github.com/creimer808/emdash-resend) - Resend email provider configured from the admin settings page.
-- [emdash-resend-email](https://github.com/vcode-sh/emdash-resend-email) - Resend email provider plugin handling magic links, user invites, account recovery, and plugin emails. ([npm](https://www.npmjs.com/package/emdash-resend-email), [Registry](https://plugins.emdashcms.com/plugins/@vcode.sh/resend))
-- [emdash-smtp](https://github.com/masonjames/emdash-smtp) - Full-parity SMTP and transactional email plugin with sender settings, fallback delivery, and private delivery logs. ([npm](https://www.npmjs.com/package/emdash-smtp), [Registry](https://plugins.emdashcms.com/plugins/@masonjames.com/emdash-smtp))
-- [Fastmail](https://github.com/govi218/emdash-plugin-fastmail) - Sends EmDash email through Fastmail's JMAP API. Sandboxed, and works on Workers. ([Registry](https://plugins.emdashcms.com/plugins/@gov.glados.computer/fastmail))
-- [Forward Email (`@numoteq.com/forward-email`)](https://github.com/numoteq/js-packages) - Transactional email delivery for EmDash via the Forward Email HTTP API. ([Registry](https://plugins.emdashcms.com/plugins/@numoteq.com/forward-email))
-- [Resend (msale)](https://plugins.emdashcms.com/plugins/@msale.com/resend) - Delivers magic links, invites, and recovery mail through the Resend API.
+- [emdash-resend](https://github.com/creimer808/emdash-resend) - Resend email provider configured from the admin settings page. *External account*
+- [emdash-resend-email](https://github.com/vcode-sh/emdash-resend-email) - Resend email provider plugin handling magic links, user invites, account recovery, and plugin emails. ([npm](https://www.npmjs.com/package/emdash-resend-email)) *[Admin install](https://plugins.emdashcms.com/plugins/@vcode.sh/resend) · External account*
+- [emdash-smtp](https://github.com/masonjames/emdash-smtp) - Full-parity SMTP and transactional email plugin with sender settings, fallback delivery, and private delivery logs. ([npm](https://www.npmjs.com/package/emdash-smtp)) *[Admin install](https://plugins.emdashcms.com/plugins/@masonjames.com/emdash-smtp)*
+- [Fastmail](https://github.com/govi218/emdash-plugin-fastmail) - Sends EmDash email through Fastmail's JMAP API. Sandboxed, and works on Workers. *[Admin install](https://plugins.emdashcms.com/plugins/@gov.glados.computer/fastmail) · External account*
+- [Forward Email (`@numoteq.com/forward-email`)](https://github.com/numoteq/js-packages) - Transactional email delivery for EmDash via the Forward Email HTTP API. *[Admin install](https://plugins.emdashcms.com/plugins/@numoteq.com/forward-email) · External account*
+- [Resend (msale)](https://plugins.emdashcms.com/plugins/@msale.com/resend) - Delivers magic links, invites, and recovery mail through the Resend API. *Admin install · External account*
 
 ### Notifications & Chat
 
 *Get alerts in Slack, Discord, or by text message, and let visitors message you.*
 
-- [emdash-discord-notifier](https://github.com/raghuchinnannan/emdash-discord-notifier) - Sends Discord webhook notifications and digests for published posts, comments, media uploads, and form submissions. ([Registry](https://plugins.emdashcms.com/plugins/@raghuchinnannan.bsky.social/discord-notifier))
-- [emdash-plugin-comment-notify](https://github.com/DavidPivert/emdash-plugin-comment-notify) - Sandboxed plugin that emails site administrators when new comments are posted or held for moderation. ([Registry](https://plugins.emdashcms.com/plugins/@lasymphonieagency.com/comment-notify))
-- [emdash-plugin-slack](https://github.com/lsngmin/emdash-plugin-slack) - Slack notification integration alerting teams when EmDash content is published. ([npm](https://www.npmjs.com/package/emdash-plugin-slack))
-- [emdash-plugin-twilio-sms](https://github.com/Full-Stack-Tech/emdash-plugin-twilio-sms) - Twilio SMS plugin with broadcast messaging, STOP/opt-out compliance, delivery webhooks, and a form-submission bridge.
-- [Publish Notify](https://github.com/okinako-chan/emdash-plugin-publish-notify) - Posts to a Discord webhook when an entry is published, updated, or unpublished.
-- [WhatsApp Chat Button (`@desidashlab.bsky.social/whatsapp-chat`)](https://plugins.emdashcms.com/plugins/@desidashlab.bsky.social/whatsapp-chat) - Floating click-to-chat WhatsApp button for EmDash sites. ([npm](https://www.npmjs.com/package/@sneaps/whatsapp-chat))
+- [emdash-discord-notifier](https://github.com/raghuchinnannan/emdash-discord-notifier) - Sends Discord webhook notifications and digests for published posts, comments, media uploads, and form submissions. *[Admin install](https://plugins.emdashcms.com/plugins/@raghuchinnannan.bsky.social/discord-notifier) · External account*
+- [emdash-plugin-comment-notify](https://github.com/DavidPivert/emdash-plugin-comment-notify) - Sandboxed plugin that emails site administrators when new comments are posted or held for moderation. *[Admin install](https://plugins.emdashcms.com/plugins/@lasymphonieagency.com/comment-notify)*
+- [emdash-plugin-slack](https://github.com/lsngmin/emdash-plugin-slack) - Slack notification integration alerting teams when EmDash content is published. ([npm](https://www.npmjs.com/package/emdash-plugin-slack)) *External account · Pre-1.0 · Inactive*
+- [emdash-plugin-twilio-sms](https://github.com/Full-Stack-Tech/emdash-plugin-twilio-sms) - Twilio SMS plugin with broadcast messaging, STOP/opt-out compliance, delivery webhooks, and a form-submission bridge. *External account · Pre-1.0*
+- [Publish Notify](https://github.com/okinako-chan/emdash-plugin-publish-notify) - Posts to a Discord webhook when an entry is published, updated, or unpublished. *External account*
+- [WhatsApp Chat Button (`@desidashlab.bsky.social/whatsapp-chat`)](https://plugins.emdashcms.com/plugins/@desidashlab.bsky.social/whatsapp-chat) - Floating click-to-chat WhatsApp button for EmDash sites. ([Source](https://github.com/desidashlab/emdash-whatsapp-chat), [npm](https://www.npmjs.com/package/@sneaps/whatsapp-chat)) *Admin install · External account*
 
 ### Forms, Surveys & CRM
 
 *Contact forms, surveys, polls, and tools for following up on leads.*
 
-- [action-pages](https://github.com/adpena/action-pages) - Composable campaign action pages (petitions, fundraising, signups, CRM) running edge-native on Cloudflare Workers. ([npm](https://www.npmjs.com/package/@adpena/action-pages))
-- [Contact Forms (`@bitdoze.com/emdashhq-contact-forms`)](https://plugins.emdashcms.com/plugins/@bitdoze.com/emdashhq-contact-forms) - Embeddable contact form builder with submission storage and site email provider delivery.
-- [Contact Forms (Mason James)](https://plugins.emdashcms.com/plugins/@masonjames.com/contact-forms) - Field builder, submission inbox, CSV export, and notifications.
+- [action-pages](https://github.com/adpena/action-pages) - Composable campaign action pages (petitions, fundraising, signups, CRM) running edge-native on Cloudflare Workers. ([npm](https://www.npmjs.com/package/@adpena/action-pages)) *Inactive*
+- [Contact Forms (`@bitdoze.com/emdashhq-contact-forms`)](https://plugins.emdashcms.com/plugins/@bitdoze.com/emdashhq-contact-forms) - Embeddable contact form builder with submission storage and site email provider delivery. ([Source](https://github.com/bitdoze/emdashhq.com)) *Admin install*
+- [Contact Forms (Mason James)](https://plugins.emdashcms.com/plugins/@masonjames.com/contact-forms) - Field builder, submission inbox, CSV export, and notifications. *Admin install*
 - [emdash-cloudflare-form](https://github.com/tmyuu/emdash-cloudflare-form) - Contact form handler with Cloudflare Turnstile CAPTCHA and Cloudflare Email transport.
-- [emdash-forms-builder](https://github.com/hassantafreshi/emdash-forms-builder) - Drag-and-drop form creator with custom validation rules and field types.
-- [emdash-freeform](https://github.com/solspace/emdash-freeform) - Advanced form creation suite for multi-step workflows.
+- [emdash-forms-builder](https://github.com/hassantafreshi/emdash-forms-builder) - Drag-and-drop form creator with custom validation rules and field types. *Inactive*
+- [emdash-freeform](https://github.com/solspace/emdash-freeform) - Advanced form creation suite for multi-step workflows. *[Admin install](https://plugins.emdashcms.com/plugins/@solspace.com/freeform)*
 - [emdash-inbox](https://github.com/proverbiallemon/emdash-inbox) - Admin mailbox UI for reviewing and responding to form submissions directly in EmDash.
 - [emdash-plugin-contact-form (murai-sketch)](https://github.com/murai-sketch/emdash-plugin-contact-form) - Sandboxed Japanese contact form with spam defense, storage, notifications, auto-replies, and retention cleanup.
-- [Forms (alpineux)](https://plugins.emdashcms.com/plugins/@alpineux.bsky.social/forms) - Admin-built or custom contact forms with email delivery and stored messages.
-- [Forms (`@netdollar.dev/forms`)](https://plugins.emdashcms.com/plugins/@netdollar.dev/forms) - Contact forms, surveys, and multi-step forms with conditional logic, entry management, CSV export, and email alerts.
+- [Forms (alpineux)](https://plugins.emdashcms.com/plugins/@alpineux.bsky.social/forms) - Admin-built or custom contact forms with email delivery and stored messages. *Admin install*
+- [Forms (`@netdollar.dev/forms`)](https://plugins.emdashcms.com/plugins/@netdollar.dev/forms) - Contact forms, surveys, and multi-step forms with conditional logic, entry management, CSV export, and email alerts. ([Source](https://github.com/charl-kruger/emdash-forms)) *Admin install*
 - [`@gatilab/emdash-core-forms`](https://www.npmjs.com/package/@gatilab/emdash-core-forms) - HTML-first forms plugin (port of WordPress Core Forms) with AJAX and no-JS submission, Turnstile spam protection, email/webhook actions, and a submissions inbox.
-- [Lead Delivery (`@moorage.dev/lead-delivery`)](https://github.com/moorage-dev/moorage/tree/main/packages/plugin-lead-delivery) - Sends official Forms enquiries to email, HubSpot, Slack, Discord or a signed webhook (Zapier, Make, n8n), with a delivery log, retries and failure alerts. ([Registry](https://plugins.emdashcms.com/plugins/@moorage.dev/lead-delivery))
-- [Lead Follow-Up Desk (`@agenticecom.net/lead-desk`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/lead-desk) - Lightweight sales CRM inside EmDash for tracking lead ownership, pipeline stages, follow-up dates, and private notes.
-- [Product Roadmap (`@vapvarun.bsky.social/roadmap`)](https://plugins.emdashcms.com/plugins/@vapvarun.bsky.social/roadmap) - Public product roadmap and feature voting board with a shipped changelog.
-- [`@quickprice/emdash-leads`](https://www.npmjs.com/package/@quickprice/emdash-leads) - Interactive QuickPrice lead capture form block for EmDash sites.
-- [semics Events & E-sign](https://github.com/semics-uk/emdash-plugins) - Free MIT event booking and ticketing, plus simple electronic signatures. ([Events](https://plugins.emdashcms.com/plugins/@semics.co.uk/semics-events), [E-sign](https://plugins.emdashcms.com/plugins/@semics.co.uk/semics-esign))
-- [WB Polls (`@vapvarun.bsky.social/polls`)](https://plugins.emdashcms.com/plugins/@vapvarun.bsky.social/polls) - Interactive polls and voting blocks with single-vote enforcement and live result displays.
+- [Lead Delivery (`@moorage.dev/lead-delivery`)](https://github.com/moorage-dev/moorage/tree/main/packages/plugin-lead-delivery) - Sends official Forms enquiries to email, HubSpot, Slack, Discord or a signed webhook (Zapier, Make, n8n), with a delivery log, retries and failure alerts. *[Admin install](https://plugins.emdashcms.com/plugins/@moorage.dev/lead-delivery)*
+- [Lead Follow-Up Desk (`@agenticecom.net/lead-desk`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/lead-desk) - Lightweight sales CRM inside EmDash for tracking lead ownership, pipeline stages, follow-up dates, and private notes. *Admin install*
+- [Product Roadmap (`@vapvarun.bsky.social/roadmap`)](https://plugins.emdashcms.com/plugins/@vapvarun.bsky.social/roadmap) - Public product roadmap and feature voting board with a shipped changelog. ([Source](https://github.com/wbcomdesigns/emdash-roadmap)) *Admin install*
+- [`@quickprice/emdash-leads`](https://www.npmjs.com/package/@quickprice/emdash-leads) - Interactive QuickPrice lead capture form block for EmDash sites. *External account*
+- [semics Events & E-sign](https://github.com/semics-uk/emdash-plugins) - Free MIT event booking and ticketing, plus simple electronic signatures. ([Events](https://plugins.emdashcms.com/plugins/@semics.co.uk/semics-events), [E-sign](https://plugins.emdashcms.com/plugins/@semics.co.uk/semics-esign)) *Admin install*
+- [WB Polls (`@vapvarun.bsky.social/polls`)](https://plugins.emdashcms.com/plugins/@vapvarun.bsky.social/polls) - Interactive polls and voting blocks with single-vote enforcement and live result displays. ([Source](https://github.com/wbcomdesigns/emdash-polls)) *Admin install*
 
 ### Commerce & Payments
 
 *Sell products, take payments, and handle orders and shipping.*
 
-- [Carte](https://github.com/foreztgump/carte) - Restaurant commerce plugin family for EmDash featuring digital menus, table reservations, and Stripe online ordering.
+- [Carte](https://github.com/foreztgump/carte) - Restaurant commerce plugin family for EmDash featuring digital menus, table reservations, and Stripe online ordering. *Pre-1.0*
 - [Coffer (formerly EmDash-MoneroPay)](https://github.com/dwightsabeast/coffer) - Privacy-focused cryptocurrency payment plugin accepting Monero. Work in progress — not yet ready to take real payments.
-- [Coldtill Crypto Payments](https://github.com/Coldtill/emdash-crypto-payment-gateway) - Accepts USDT, USDC, BTC, ETH, SOL and 200+ coins directly to the merchant's own wallets. ([Registry](https://plugins.emdashcms.com/plugins/@coldtill.com/coldtill), [DashCommerce gateway](https://github.com/Coldtill/dashcommerce-crypto-payment-gateway))
+- [Coldtill Crypto Payments](https://github.com/Coldtill/emdash-crypto-payment-gateway) - Accepts USDT, USDC, BTC, ETH, SOL and 200+ coins directly to the merchant's own wallets. ([DashCommerce gateway](https://github.com/Coldtill/dashcommerce-crypto-payment-gateway)) *[Admin install](https://plugins.emdashcms.com/plugins/@coldtill.com/coldtill) · External account*
 - [DashCommerce](https://github.com/emdashCommerce/dashcommerce) - Full-featured, WooCommerce-equivalent commerce plugin for EmDash on Cloudflare Workers and D1. ([npm](https://www.npmjs.com/package/@dashcommerce/core))
-- [dashcommerce-mercadopago](https://github.com/Jorguitouy/dashcommerce-mercadopago) - Mercado Pago (Checkout Pro) payment gateway provider for DashCommerce supporting Latin American storefronts.
-- [DinkusKit Commerce Suite (`dinkus-commerce`, `dinkus-payments`, `inventory`, `coupons`, `bundles`)](https://plugins.emdashcms.com/plugins/@dinkuskit.com/dinkus-commerce) - Modular commerce kit for EmDash covering product catalogs, immutable inventory ledgers, BOGO promotions, mix-and-match bundles, and Stripe payments. ([Payments](https://plugins.emdashcms.com/plugins/@dinkuskit.com/dinkus-payments), [Inventory](https://github.com/dinkuskit/inventory), [Coupons](https://github.com/dinkuskit/coupons), [Bundles](https://github.com/dinkuskit/bundles))
-- [DinkusKit Ship](https://plugins.emdashcms.com/plugins/@dinkuskit.com/dinkus-ship) - Compares USPS rates and handles label buying, printing, and cancelling in sandbox. ([Source](https://github.com/dinkuskit/ship))
-- [emCommerce](https://github.com/cdurth/emCommerce) - E-commerce catalog and checkout plugin for EmDash CMS.
+- [dashcommerce-mercadopago](https://github.com/Jorguitouy/dashcommerce-mercadopago) - Mercado Pago (Checkout Pro) payment gateway provider for DashCommerce supporting Latin American storefronts. *External account*
+- [DinkusKit Commerce Suite (`dinkus-commerce`, `dinkus-payments`, `inventory`, `coupons`, `bundles`)](https://plugins.emdashcms.com/plugins/@dinkuskit.com/dinkus-commerce) - Modular commerce kit for EmDash covering product catalogs, immutable inventory ledgers, BOGO promotions, mix-and-match bundles, and Stripe payments. ([Source](https://github.com/dinkuskit/commerce), [Payments](https://plugins.emdashcms.com/plugins/@dinkuskit.com/dinkus-payments), [Inventory](https://github.com/dinkuskit/inventory), [Coupons](https://github.com/dinkuskit/coupons), [Bundles](https://github.com/dinkuskit/bundles)) *Admin install*
+- [DinkusKit Ship](https://plugins.emdashcms.com/plugins/@dinkuskit.com/dinkus-ship) - Compares USPS rates and handles label buying, printing, and cancelling in sandbox. ([Source](https://github.com/dinkuskit/ship)) *Admin install · External account*
+- [emCommerce](https://github.com/cdurth/emCommerce) - E-commerce catalog and checkout plugin for EmDash CMS. *Inactive*
 - [emdash-kaspa-x402-adapter](https://github.com/KaspaScopio/emdash-kaspa-x402-adapter) - Community HTTP `x402` payment adapter integrating the Kaspa network with EmDash.
 - [emdash-mika](https://github.com/bnomei/emdash-mika) - Agent-ready commerce primitives, cart state, digital downloads, and WebMCP storefront tools for EmDash. ([npm](https://www.npmjs.com/package/@bnomei/emdash-mika))
-- [emdash-plugin-flutterwave](https://github.com/alexasomba/emdash-plugin-flutterwave) - Sandboxed Flutterwave payment plugin.
+- [emdash-plugin-flutterwave](https://github.com/alexasomba/emdash-plugin-flutterwave) - Sandboxed Flutterwave payment plugin. *External account*
 - [emdash-plugin-medusa](https://github.com/BlackSwampAI/emdash-plugin-medusa) - Native EmDash CMS plugin for live Medusa v2 commerce product references.
-- [emdash-plugin-paystack](https://github.com/alexasomba/emdash-plugin-paystack) - Sandboxed Paystack payment plugin for African markets.
-- [emdash-plugin-zarinpal](https://github.com/taleghanidev/emdash-plugin-zarinpal) - Zarinpal (Iran) payment gateway with payment links, server checkout, and verified callbacks on Workers and Node.js.
-- [emdash-stripe-checkout](https://github.com/ecommerceave/emdash-stripe-checkout) - Turnkey Stripe Checkout payment integration for EmDash stores. ([Registry](https://plugins.emdashcms.com/plugins/@ecommerceave.com/emdash-stripe-checkout))
-- [Moksa Commerce Core](https://plugins.emdashcms.com/plugins/@moksaweb.com/moksa-commerce-core) - Base of the Moksa suite: products, cart, checkout, orders, and stock holds. The wider suite adds ECPay, NewebPay, PAYUNi, SmilePay, PayNow, PChomePay, SHOPLINE, Amego e-invoices, LINE login and messaging, loyalty, affiliates, bookings and group buys, and Meta/GA4 feeds. ([Self-hosted packs on npm](https://www.npmjs.com/package/@moksa/commerce-pack-all), [`npm create @moksa/shop`](https://www.npmjs.com/package/@moksa/create-shop))
-- [Moksa Order Emails](https://plugins.emdashcms.com/plugins/@moksaweb.com/moksa-commerce-notify) - Order lifecycle emails (confirmation, paid, shipped, pickup-ready, refunds, invoices) with a send log and resend.
-- [Moksa Subscriptions](https://plugins.emdashcms.com/plugins/@moksaweb.com/moksa-commerce-subscriptions) - Subscription plans on SKUs, renewal orders, dunning, a customer "My subscriptions" area, and MCP tools.
-- [Moksa TapPay Payments](https://plugins.emdashcms.com/plugins/@moksaweb.com/moksa-tappay) - TapPay for Taiwan with cards, Apple Pay, Google Pay, Samsung Pay, Taiwan e-wallets, verified notifications, and refunds.
+- [emdash-plugin-paystack](https://github.com/alexasomba/emdash-plugin-paystack) - Sandboxed Paystack payment plugin for African markets. *External account*
+- [emdash-plugin-zarinpal](https://github.com/taleghanidev/emdash-plugin-zarinpal) - Zarinpal (Iran) payment gateway with payment links, server checkout, and verified callbacks on Workers and Node.js. *External account*
+- [emdash-stripe-checkout](https://github.com/ecommerceave/emdash-stripe-checkout) - Turnkey Stripe Checkout payment integration for EmDash stores. *[Admin install](https://plugins.emdashcms.com/plugins/@ecommerceave.com/emdash-stripe-checkout) · External account*
+- [Moksa Commerce Core](https://plugins.emdashcms.com/plugins/@moksaweb.com/moksa-commerce-core) - Base of the Moksa suite: products, cart, checkout, orders, and stock holds. The wider suite adds ECPay, NewebPay, PAYUNi, SmilePay, PayNow, PChomePay, SHOPLINE, Amego e-invoices, LINE login and messaging, loyalty, affiliates, bookings and group buys, and Meta/GA4 feeds. ([Self-hosted packs on npm](https://www.npmjs.com/package/@moksa/commerce-pack-all), [`npm create @moksa/shop`](https://www.npmjs.com/package/@moksa/create-shop)) *Admin install*
+- [Moksa Order Emails](https://plugins.emdashcms.com/plugins/@moksaweb.com/moksa-commerce-notify) - Order lifecycle emails (confirmation, paid, shipped, pickup-ready, refunds, invoices) with a send log and resend. *Admin install*
+- [Moksa Subscriptions](https://plugins.emdashcms.com/plugins/@moksaweb.com/moksa-commerce-subscriptions) - Subscription plans on SKUs, renewal orders, dunning, a customer "My subscriptions" area, and MCP tools. *Admin install*
+- [Moksa TapPay Payments](https://plugins.emdashcms.com/plugins/@moksaweb.com/moksa-tappay) - TapPay for Taiwan with cards, Apple Pay, Google Pay, Samsung Pay, Taiwan e-wallets, verified notifications, and refunds. *Admin install · External account*
 - [Otta by Urumi](https://urumi.ai/otta-is-the-ecommerce-plugin-for-cloudflares-em-dash) - Open-source commerce layer for EmDash with a Node/Hono backend handling catalogs, cart, checkout, payments, and inventory; the first eCommerce plugin for the platform. ([GitHub](https://github.com/UrumiAI/otta.sh))
-- [Payments (HandyPlugins)](https://plugins.emdashcms.com/plugins/@handyplugins.co/payments) - Accepts payments without a full commerce platform. ([Source](https://github.com/handyplugins/emdash-payments))
+- [Payments (HandyPlugins)](https://plugins.emdashcms.com/plugins/@handyplugins.co/payments) - Accepts payments without a full commerce platform. ([Source](https://github.com/handyplugins/emdash-payments)) *Admin install · External account*
 - [Sella](https://github.com/codelified/Sella) - Shopify-like commerce for EmDash with a native plugin, storefront theme, and one-command scaffolder.
 - [wscommerce](https://github.com/wsagency/wscommerce) - MIT-licensed EmDash commerce plugin on Cloudflare Workers with Stripe, Solo, e-racuni, and a WooCommerce REST compatibility layer.
 
@@ -380,31 +380,31 @@ Plugins add features to your site, and there are two kinds. *Sandboxed* plugins 
 *Sell access to content, run memberships, and teach online courses.*
 
 - [emdashlearn](https://github.com/emdash-learn/emdashlearn) - Open-source LMS plugin providing courses, lessons, and student progress tracking on the edge.
-- [emdash-lms](https://github.com/tohaitrieu/emdash-lms) - Learning management system plugin supporting courses, memberships, quizzes, and digital certificates. ([npm](https://www.npmjs.com/package/emdash-lms))
-- [emdash-paid-access](https://github.com/masonjames/emdash-paid-access) - Stripe memberships and HTTP `x402` pay-per-read content paywall plugin for EmDash with an Astro companion component.
-- [emdash-restrict-with-stripe](https://github.com/masonjames/emdash-restrict-with-stripe) - Restricts content and sells access with Stripe.
-- [milo-emdash](https://www.npmjs.com/package/milo-emdash) - Sell subscriptions, memberships, one-off digital products, and protected downloads on EmDash with Stripe, coupons, taxes, and a member portal.
+- [emdash-lms](https://github.com/tohaitrieu/emdash-lms) - Learning management system plugin supporting courses, memberships, quizzes, and digital certificates. ([npm](https://www.npmjs.com/package/emdash-lms)) *Inactive*
+- [emdash-paid-access](https://github.com/masonjames/emdash-paid-access) - Stripe memberships and HTTP `x402` pay-per-read content paywall plugin for EmDash with an Astro companion component. *External account*
+- [emdash-restrict-with-stripe](https://github.com/masonjames/emdash-restrict-with-stripe) - Restricts content and sells access with Stripe. *External account*
+- [milo-emdash](https://www.npmjs.com/package/milo-emdash) - Sell subscriptions, memberships, one-off digital products, and protected downloads on EmDash with Stripe, coupons, taxes, and a member portal. *External account*
 
 ### Authentication & Access Control
 
 *Change how people sign in to your site and its admin panel.*
 
 - [emdash-admin-login-classic](https://github.com/marks-zyz/emdash-admin-login-classic) - Classic WordPress-style email and password sign-in for the EmDash admin alongside passkeys and magic links. ([npm](https://www.npmjs.com/package/emdash-admin-login-classic))
-- [emdash-auth-discord](https://github.com/leCielEtoile/emdash-auth-discord) - Discord OAuth login provider for EmDash with Discord server (guild) membership gating and role mapping.
+- [emdash-auth-discord](https://github.com/leCielEtoile/emdash-auth-discord) - Discord OAuth login provider for EmDash with Discord server (guild) membership gating and role mapping. *External account*
 - [emdash-better-auth](https://github.com/theweekendprojects/emdash-better-auth) - Email/password and social (Google, GitHub) authentication powered by Better Auth, with prebuilt sign-in/sign-up pages and email verification. ([npm](https://www.npmjs.com/package/emdash-better-auth))
 - [emdash-plugin-password-auth](https://github.com/feronera/emdash-plugin-password-auth) - Turnkey email and password sign-in for the admin with first-admin setup, self-service change, and password reset (PBKDF2 via Web Crypto).
-- [@hellocoop/emdash](https://github.com/hellocoop/emdash) - Hellō passwordless login and OpenID Connect identity provider integration. ([npm](https://www.npmjs.com/package/@hellocoop/emdash))
+- [@hellocoop/emdash](https://github.com/hellocoop/emdash) - Hellō passwordless login and OpenID Connect identity provider integration. ([npm](https://www.npmjs.com/package/@hellocoop/emdash)) *External account*
 
 ### Security & Site Protection
 
 *Block spam, bots, and attacks, or lock the site while you work on it.*
 
-- [Comment Spam Protection (Peachfin)](https://plugins.emdashcms.com/plugins/@peachfinthemes.com/comment-spam-protection) - Local comment spam rules: blocked words, links, language, duplicates, and rate limits.
-- [CrowdSec (`@shane.bsky.shas.am/emdash-crowdsec`)](https://plugins.emdashcms.com/plugins/@shane.bsky.shas.am/emdash-crowdsec) - Displays CrowdSec alerts, active bans, and top security threats from your Local API inside the EmDash admin.
-- [emdash-captcha](https://github.com/Dullaz/emdash-captcha) - Pluggable bot-protection and CAPTCHA abstraction plugin for EmDash with first-class Cloudflare Turnstile support.
+- [Comment Spam Protection (Peachfin)](https://plugins.emdashcms.com/plugins/@peachfinthemes.com/comment-spam-protection) - Local comment spam rules: blocked words, links, language, duplicates, and rate limits. *Admin install*
+- [CrowdSec (`@shane.bsky.shas.am/emdash-crowdsec`)](https://plugins.emdashcms.com/plugins/@shane.bsky.shas.am/emdash-crowdsec) - Displays CrowdSec alerts, active bans, and top security threats from your Local API inside the EmDash admin. ([Source](https://github.com/shanelord01/emdash-crowdsec)) *Admin install*
+- [emdash-captcha](https://github.com/Dullaz/emdash-captcha) - Pluggable bot-protection and CAPTCHA abstraction plugin for EmDash with first-class Cloudflare Turnstile support. *Pre-1.0*
 - [emdash-nospam](https://github.com/apsulis/emdash-nospam) - CAPTCHA-free form anti-spam using a signed timing token, honeypot, per-IP rate limiting, and content checks, with a dashboard widget. ([npm](https://www.npmjs.com/package/@apsulis/emdash-nospam))
-- [plugin-emdash-sensitive-data-leak](https://github.com/sunak-tech/plugin-emdash-sensitive-data-leak) - Scans EmDash content on save for accidentally exposed API keys, tokens, and secrets, surfacing alerts in the admin UI. ([npm](https://www.npmjs.com/package/@snack222/plugin-emdash-sensitive-data-leak))
-- [RankShield (`@rankshield/emdash-security`)](https://www.npmjs.com/package/@rankshield/emdash-security) - Behavioral threat defense and hardware-fingerprinting security plugin for EmDash.
+- [plugin-emdash-sensitive-data-leak](https://github.com/sunak-tech/plugin-emdash-sensitive-data-leak) - Scans EmDash content on save for accidentally exposed API keys, tokens, and secrets, surfacing alerts in the admin UI. ([npm](https://www.npmjs.com/package/@snack222/plugin-emdash-sensitive-data-leak)) *Pre-1.0*
+- [RankShield (`@rankshield/emdash-security`)](https://www.npmjs.com/package/@rankshield/emdash-security) - Behavioral threat defense and hardware-fingerprinting security plugin for EmDash. *External account · Pre-1.0 · Inactive*
 - [Site Gate](https://github.com/molyinc/emdash-plugin-site-gate) - Site-wide password lock or server-side maintenance mode.
 
 ### Accessibility & Privacy
@@ -412,20 +412,20 @@ Plugins add features to your site, and there are two kinds. *Sandboxed* plugins 
 *Check your site for accessibility problems and handle cookie consent.*
 
 - [accessibility-toolkit](https://github.com/susheel250/accessibility-toolkit) - WCAG 2.2 AA and Section 508 accessibility widget for EmDash.
-- [Cookie Consent (`@desidashlab.bsky.social/cookie-consent`)](https://plugins.emdashcms.com/plugins/@desidashlab.bsky.social/cookie-consent) - GDPR cookie consent banner with category-level blocking, Google Consent Mode support, and consent audit logging.
-- [emdash-plugin-a11y](https://github.com/Full-Stack-Tech/emdash-plugin-a11y) - WCAG 2.2 AA accessibility auditing that reports contrast, structure, and media issues directly in the admin editor.
-- [emdash-plugin-cookie-consent](https://github.com/adrianoamalfi/emdash-plugin-cookie-consent) - Customizable GDPR/CCPA cookie consent banner with category-level opt-in, theming, and an admin settings panel.
+- [Cookie Consent (`@desidashlab.bsky.social/cookie-consent`)](https://plugins.emdashcms.com/plugins/@desidashlab.bsky.social/cookie-consent) - GDPR cookie consent banner with category-level blocking, Google Consent Mode support, and consent audit logging. ([Source](https://github.com/desidashlab/emdash-cookie-consent)) *Admin install*
+- [emdash-plugin-a11y](https://github.com/Full-Stack-Tech/emdash-plugin-a11y) - WCAG 2.2 AA accessibility auditing that reports contrast, structure, and media issues directly in the admin editor. *Pre-1.0*
+- [emdash-plugin-cookie-consent](https://github.com/adrianoamalfi/emdash-plugin-cookie-consent) - Customizable GDPR/CCPA cookie consent banner with category-level opt-in, theming, and an admin settings panel. *Pre-1.0*
 - [emdash-privacy](https://github.com/theweekendprojects/emdash-privacy) - Per-site GDPR/TDDDG cookie consent using the c15t banner, with consent proof stored in the site's own D1.
 - [EmPrivacy](https://github.com/EmPlugins/EmPrivacy) - Cookie consent banner, gated third-party embeds, and privacy notices tailored for GDPR, CCPA, and CIPA compliance. ([npm](https://www.npmjs.com/package/@emplugins/emprivacy))
-- [Image Alt Text Manager (`@agenticecom.net/media-alt-text-queue`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/media-alt-text-queue) - Audits the media library and content entries for images missing alt text and provides a queue for adding accessible descriptions.
-- [VCompliance Accessibility Scanner](https://plugins.emdashcms.com/plugins/@veduis.bsky.social/vcompliance) - Automated WCAG 2.2 and ADA scanner (missing alt text, skip links, and more).
+- [Image Alt Text Manager (`@agenticecom.net/media-alt-text-queue`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/media-alt-text-queue) - Audits the media library and content entries for images missing alt text and provides a queue for adding accessible descriptions. *Admin install*
+- [VCompliance Accessibility Scanner](https://plugins.emdashcms.com/plugins/@veduis.bsky.social/vcompliance) - Automated WCAG 2.2 and ADA scanner (missing alt text, skip links, and more). *Admin install*
 
 ### Translation & Languages
 
 *Run your site in more than one language.*
 
-- [emdash-i18n](https://github.com/alfgago/emdash-i18n) - Multi-locale translation manager with REST API, automatic caching, and translation coverage tracking. ([npm](https://www.npmjs.com/package/emdash-i18n-translations))
-- [emdash-plugin-linguadash](https://github.com/swissky/emdash-plugin-linguadash) - Content localization and translation plugin supporting DeepL, Google Translate, and OpenAI models. ([npm](https://www.npmjs.com/package/emdash-plugin-linguadash))
+- [emdash-i18n](https://github.com/alfgago/emdash-i18n) - Multi-locale translation manager with REST API, automatic caching, and translation coverage tracking. ([npm](https://www.npmjs.com/package/emdash-i18n-translations)) *Pre-1.0 · Inactive*
+- [emdash-plugin-linguadash](https://github.com/swissky/emdash-plugin-linguadash) - Content localization and translation plugin supporting DeepL, Google Translate, and OpenAI models. ([npm](https://www.npmjs.com/package/emdash-plugin-linguadash)) *[Admin install](https://plugins.emdashcms.com/plugins/@swiss.ky/linguadash) · External account*
 - [emdash-schema-i18n](https://github.com/NimitzUA/emdash-schema-i18n) - Localizes dynamic schema, collection, and block-type labels in the admin UI.
 
 ### Media & Images
@@ -433,42 +433,42 @@ Plugins add features to your site, and there are two kinds. *Sandboxed* plugins 
 *Optimize, generate, describe, and organize images and other media.*
 
 - [emdash-media-editor](https://github.com/joyce5438/emdash-media-editor) - Edits image alt text and captions.
-- [emdash-plugin-ai-alt-text](https://github.com/DavidPivert/emdash-plugin-ai-alt-text) - Sandboxed plugin that generates localized image alt text with Claude directly from the EmDash media library. ([Registry](https://plugins.emdashcms.com/plugins/@lasymphonieagency.com/ai-alt-text))
+- [emdash-plugin-ai-alt-text](https://github.com/DavidPivert/emdash-plugin-ai-alt-text) - Sandboxed plugin that generates localized image alt text with Claude directly from the EmDash media library. *[Admin install](https://plugins.emdashcms.com/plugins/@lasymphonieagency.com/ai-alt-text) · External account*
 - [emdash-plugin-bulk-upload](https://github.com/afonsojramos/emdash-plugin-bulk-upload) - Drag-and-drop bulk upload admin page that automatically creates draft entries for every uploaded media file.
-- [emdash-plugin-modern-images](https://github.com/adrianoamalfi/emdash-plugin-modern-images) - Converts uploaded media to modern WebP/AVIF formats with responsive srcset delivery, disk caching, and LCP preload support.
-- [emdash-plugin-r2](https://github.com/azydeco/emdash-plugin-r2) - Sandboxed plugin for browsing and using images from a Cloudflare R2 bucket.
-- [emdash-plugin-r2-variants](https://github.com/rjstech2020/emdash-plugin-r2-variants) - Resizes each image once, stores variants in R2, and serves them without per-request Worker transforms.
+- [emdash-plugin-modern-images](https://github.com/adrianoamalfi/emdash-plugin-modern-images) - Converts uploaded media to modern WebP/AVIF formats with responsive srcset delivery, disk caching, and LCP preload support. *Pre-1.0 · Inactive*
+- [emdash-plugin-r2](https://github.com/azydeco/emdash-plugin-r2) - Sandboxed plugin for browsing and using images from a Cloudflare R2 bucket. *[Admin install](https://plugins.emdashcms.com/plugins/@azydeco.com/plugin_emdash_r2_asset_access)*
+- [emdash-plugin-r2-variants](https://github.com/rjstech2020/emdash-plugin-r2-variants) - Resizes each image once, stores variants in R2, and serves them without per-request Worker transforms. *[Admin install](https://plugins.emdashcms.com/plugins/@rajatag.bsky.social/r2-variants)*
 - [emdash-popcase](https://github.com/harryxu/emdash-popcase) - Native lightbox for body images and videos.
-- [Image Generator (Sneaps)](https://plugins.emdashcms.com/plugins/@sneaps.io/image-generator) - AI featured-image generation via OpenAI, OpenRouter, and others, one at a time or in bulk.
-- [Image Optimizer (Verco)](https://plugins.emdashcms.com/plugins/@verco.app/image-optimizer) - Finds media library images that could be smaller. Currently read-only. ([Source](https://github.com/vercoapp/verco-plugins))
-- [Photo EXIF Extractor](https://plugins.emdashcms.com/plugins/@anguszyu.bsky.social/exif) - Extracts camera, lens, exposure, timestamp, and optional GPS EXIF data from media library photos.
-- [pixelseo-emdash-plugin](https://github.com/codebiwan/pixelseo-emdash-plugin) - Generate AI-crafted featured images and save them directly into the EmDash Media Library.
-- [`@writealt/emdash-writealt`](https://www.npmjs.com/package/@writealt/emdash-writealt) - Native EmDash plugin for automated AI alt-text generation and in-place image optimization.
+- [Image Generator (Sneaps)](https://plugins.emdashcms.com/plugins/@sneaps.io/image-generator) - AI featured-image generation via OpenAI, OpenRouter, and others, one at a time or in bulk. *Admin install · External account*
+- [Image Optimizer (Verco)](https://plugins.emdashcms.com/plugins/@verco.app/image-optimizer) - Finds media library images that could be smaller. Currently read-only. ([Source](https://github.com/vercoapp/verco-plugins)) *Admin install*
+- [Photo EXIF Extractor](https://plugins.emdashcms.com/plugins/@anguszyu.bsky.social/exif) - Extracts camera, lens, exposure, timestamp, and optional GPS EXIF data from media library photos. *Admin install*
+- [pixelseo-emdash-plugin](https://github.com/codebiwan/pixelseo-emdash-plugin) - Generate AI-crafted featured images and save them directly into the EmDash Media Library. *External account · Pre-1.0 · Inactive*
+- [`@writealt/emdash-writealt`](https://www.npmjs.com/package/@writealt/emdash-writealt) - Native EmDash plugin for automated AI alt-text generation and in-place image optimization. *External account*
 
 ### Editor & Content Blocks
 
 *New blocks and fields for richer content: callouts, code, math, tables, author boxes, and more.*
 
-- [bible-emdash-plugin](https://github.com/midvash/bible-emdash-plugin) - Auto-links scripture references (English, Portuguese, Spanish) with hover tooltips via the Midvash API.
-- [Content Widgets (`@bitdoze.com/emdashhq-widgets`)](https://plugins.emdashcms.com/plugins/@bitdoze.com/emdashhq-widgets) - Portable Text article widgets including notices, accordions, tabs, steps, product boxes, embeds, cards, quotes, and TOC.
+- [bible-emdash-plugin](https://github.com/midvash/bible-emdash-plugin) - Auto-links scripture references (English, Portuguese, Spanish) with hover tooltips via the Midvash API. *[Admin install](https://plugins.emdashcms.com/plugins/@midvash.com/bible-by-midvash)*
+- [Content Widgets (`@bitdoze.com/emdashhq-widgets`)](https://plugins.emdashcms.com/plugins/@bitdoze.com/emdashhq-widgets) - Portable Text article widgets including notices, accordions, tabs, steps, product boxes, embeds, cards, quotes, and TOC. ([Source](https://github.com/bitdoze/emdashhq.com)) *Admin install*
 - [emdash-actions](https://github.com/bnomei/emdash-actions) - Action buttons and server-side task runner triggers for EmDash fields and admin dashboards. ([npm](https://www.npmjs.com/package/@bnomei/emdash-actions))
 - [emdash-author-box](https://github.com/masonjames/emdash-author-box) - Production-ready author box plugin for EmDash CMS.
 - [emdash-blocks](https://github.com/bnomei/emdash-blocks) - JSON block-list field widget for EmDash entries with normalized block props and per-block visibility toggles.
-- [emdash-cms-sheet-to-table](https://github.com/alamriku/emdash-cms-sheet-to-table) - Live, searchable, sortable data tables synced from Google Sheets with themes, frozen columns, and CSV/Excel/PDF export.
+- [emdash-cms-sheet-to-table](https://github.com/alamriku/emdash-cms-sheet-to-table) - Live, searchable, sortable data tables synced from Google Sheets with themes, frozen columns, and CSV/Excel/PDF export. *External account*
 - [emdash-content-blocks](https://github.com/gatilab/emdash-content-blocks) - Rich editorial Portable Text blocks (FAQ, callout, expert opinion, stats, product review, pros/cons, comparison, checklist, social thread) with Astro renderers and JSON-LD.
 - [emdash-Featured-Post](https://github.com/joyce5438/emdash-Featured-Post) - Selects one or more featured posts.
 - [emdash-fields](https://github.com/bnomei/emdash-fields) - Structured JSON field editors for collections: nested objects, structures, links, and choices. ([npm](https://www.npmjs.com/package/@bnomei/emdash-fields))
 - [emdash-page-list](https://github.com/masonjames/emdash-page-list) - Collection-backed and menu-backed page lists via a `pageList` Portable Text block and Astro component.
-- [emdash-plugin-highlightjs](https://github.com/adrianoamalfi/emdash-plugin-highlightjs) - Portable Text syntax highlighting plugin using Highlight.js with 12 themes, auto dark/light mode, and a copy button.
-- [emdash-plugin-katex](https://github.com/ibnutoriq/emdash-plugin-katex) - Server-rendered LaTeX math and equation blocks powered by KaTeX. ([npm](https://www.npmjs.com/package/emdash-plugin-katex))
+- [emdash-plugin-highlightjs](https://github.com/adrianoamalfi/emdash-plugin-highlightjs) - Portable Text syntax highlighting plugin using Highlight.js with 12 themes, auto dark/light mode, and a copy button. *Pre-1.0 · Inactive*
+- [emdash-plugin-katex](https://github.com/ibnutoriq/emdash-plugin-katex) - Server-rendered LaTeX math and equation blocks powered by KaTeX. ([npm](https://www.npmjs.com/package/emdash-plugin-katex)) *Pre-1.0*
 - [emdash-plugin-math](https://github.com/AK-103U/emdash-plugin-math) - Server-rendered LaTeX formula and math equation rendering for EmDash powered by KaTeX.
 - [emdash-plugin-neodb](https://github.com/ann61c/emdash-plugin-neodb) - Embeds NeoDB rich media cards and a books/movies/music shelf in EmDash CMS.
 - [emdash-plugins (interactive-inc)](https://github.com/interactive-inc/emdash-plugins) - Chat-authored `json-render` pages and previews.
 - [emdash-plugin-stl-viewer](https://github.com/ebootheee/emdash-plugin-stl-viewer) - Interactive 3D preview block for STL and 3MF files in Portable Text powered by lazy-loaded Three.js. ([npm](https://www.npmjs.com/package/emdash-plugin-stl-viewer))
 - [emdash-reading-time](https://github.com/masonjames/emdash-reading-time) - Polished, reusable reading-time badge for long-form content via a `readingTime` Portable Text block and Astro component.
-- [emdash-syntax-highlighter](https://github.com/masonjames/emdash-syntax-highlighter) - Server-side syntax highlighting for Portable Text code blocks in Astro templates.
-- [emdash-table-of-contents](https://github.com/masonjames/emdash-table-of-contents) - Production-ready table of contents plugin with Portable Text and Astro component support.
-- [emdash-typographer](https://github.com/ravalkrushna1/emdash-typographer) - Polishes smart quotes, dashes, ellipses, and spacing in the editor with a live diff preview before applying. ([Registry](https://plugins.emdashcms.com/plugins/@krushnaraval.bsky.social/typographer))
+- [emdash-syntax-highlighter](https://github.com/masonjames/emdash-syntax-highlighter) - Server-side syntax highlighting for Portable Text code blocks in Astro templates. *Inactive*
+- [emdash-table-of-contents](https://github.com/masonjames/emdash-table-of-contents) - Production-ready table of contents plugin with Portable Text and Astro component support. *Pre-1.0 · Inactive*
+- [emdash-typographer](https://github.com/ravalkrushna1/emdash-typographer) - Polishes smart quotes, dashes, ellipses, and spacing in the editor with a live diff preview before applying. *[Admin install](https://plugins.emdashcms.com/plugins/@krushnaraval.bsky.social/typographer)*
 - [Folio](https://github.com/couponzania/emdash-folio) - 13 article blocks and 13 chart types (bar, line, area, and more) for any EmDash site.
 - [plugdash](https://github.com/plugdash/plugdash) - Modular utilities monorepo: callouts, Shiki codeblocks, dynamic tables of contents, reading time, Open Graph social cards, shortlinks, and build webhooks.
 
@@ -478,21 +478,21 @@ Plugins add features to your site, and there are two kinds. *Sandboxed* plugins 
 
 - [emdash-ai-search](https://github.com/theweekendprojects/emdash-ai-search) - Drop-in semantic vector search and AI chat bar powered by Cloudflare AI Search and Workers AI.
 - [emdash-document-revisions](https://github.com/benbalter/emdash-document-revisions) - Port of WP Document Revisions by Ben Balter providing versioned document management stored privately in Cloudflare R2 and served via permission-checked permalinks.
-- [emdash-injectai](https://github.com/muzammildafedar/emdash-injectai) - Adds Retrieval-Augmented Generation (RAG) chatbot support across uploaded files and collections.
-- [emdash-plugin-404](https://github.com/azydeco/emdash-plugin-404) - Lets editors design and customize the site's 404 page directly in the EmDash admin while serving a real HTTP 404 status. ([Registry](https://plugins.emdashcms.com/plugins/@azydeco.com/emdash-plugin-custom-404))
-- [emdash-readable-resume](https://github.com/supertj/emdash-readable-resume) - Publishes a resume as a page in ReadableResume's Classic layout.
-- [Eventual (`eventual-emdash-sandbox`)](https://github.com/Vermeulen-Solutions/eventual-emdash-sandbox) - Sandboxed plugin for native multilingual events, rich text descriptions, recurrence rules, saved venues, and iCalendar feeds. ([Registry](https://plugins.emdashcms.com/plugins/@vermeulen.solutions/eventual))
-- [KnowX Knowledge Base (`@vapvarun.bsky.social/knowx`)](https://plugins.emdashcms.com/plugins/@vapvarun.bsky.social/knowx) - Searchable knowledge base and help center plugin with categories, article feedback ratings, and reader search analytics.
-- [Listora (`emdash-listora`)](https://github.com/wbcomdesigns/emdash-listora) - Moderated local business directory plugin with map integration, 10 listing types, member submissions, reviews, and listing claims. ([Registry](https://plugins.emdashcms.com/plugins/@vapvarun.bsky.social/listora))
-- [`@sneaps/booking-embed`](https://www.npmjs.com/package/@sneaps/booking-embed) - Cal.com and Calendly booking widgets (floating button, element trigger, and inline calendar block) for EmDash sites.
-- [WB Reviews (`@vapvarun.bsky.social/reviews`)](https://plugins.emdashcms.com/plugins/@vapvarun.bsky.social/reviews) - Star ratings and moderated user reviews for EmDash articles and pages.
+- [emdash-injectai](https://github.com/muzammildafedar/emdash-injectai) - Adds Retrieval-Augmented Generation (RAG) chatbot support across uploaded files and collections. *External account*
+- [emdash-plugin-404](https://github.com/azydeco/emdash-plugin-404) - Lets editors design and customize the site's 404 page directly in the EmDash admin while serving a real HTTP 404 status. *[Admin install](https://plugins.emdashcms.com/plugins/@azydeco.com/emdash-plugin-custom-404)*
+- [emdash-readable-resume](https://github.com/supertj/emdash-readable-resume) - Publishes a resume as a page in ReadableResume's Classic layout. *[Admin install](https://plugins.emdashcms.com/plugins/@readableresume.com/readable-resume)*
+- [Eventual RSVP Core](https://github.com/Vermeulen-Solutions/eventual-rsvp-core) - Sandboxed plugin for native multilingual events, rich text descriptions, recurrence rules, saved venues, and iCalendar feeds. *[Admin install](https://plugins.emdashcms.com/plugins/@vermeulen.solutions/eventual)*
+- [KnowX Knowledge Base (`@vapvarun.bsky.social/knowx`)](https://plugins.emdashcms.com/plugins/@vapvarun.bsky.social/knowx) - Searchable knowledge base and help center plugin with categories, article feedback ratings, and reader search analytics. ([Source](https://github.com/wbcomdesigns/emdash-knowx)) *Admin install*
+- [Listora (`emdash-listora`)](https://github.com/wbcomdesigns/emdash-listora) - Moderated local business directory plugin with map integration, 10 listing types, member submissions, reviews, and listing claims. *[Admin install](https://plugins.emdashcms.com/plugins/@vapvarun.bsky.social/listora)*
+- [`@sneaps/booking-embed`](https://www.npmjs.com/package/@sneaps/booking-embed) - Cal.com and Calendly booking widgets (floating button, element trigger, and inline calendar block) for EmDash sites. *External account*
+- [WB Reviews (`@vapvarun.bsky.social/reviews`)](https://plugins.emdashcms.com/plugins/@vapvarun.bsky.social/reviews) - Star ratings and moderated user reviews for EmDash articles and pages. ([Source](https://github.com/wbcomdesigns/emdash-reviews)) *Admin install*
 
 ### Page Builders & Layout
 
 *Design pages visually by dragging and arranging blocks.*
 
 - [builderdash](https://github.com/lickybuay/builderdash) - Elementor-inspired native visual page builder plugin for EmDash with live preview, drag-and-drop blocks, and an inspector panel.
-- [emcanvas](https://github.com/emcanvas/emcanvas) - Visual canvas drag-and-drop page builder for EmDash entries and landing pages.
+- [emcanvas](https://github.com/emcanvas/emcanvas) - Visual canvas drag-and-drop page builder for EmDash entries and landing pages. *Inactive*
 - [emdash-bento](https://github.com/bnomei/emdash-bento) - Visual Bento grid layout field widget for EmDash JSON fields using Block Builder. ([npm](https://www.npmjs.com/package/@bnomei/emdash-bento))
 - [emdashcms-visual-builder](https://github.com/HaroonChelsea/emdashcms-visual-builder) - GrapesJS Core-powered visual site builder for EmDash CMS supporting responsive pages, headers, footers, and reusable components. ([npm](https://www.npmjs.com/package/@mhar00n/emdashcms-visual-builder))
 - [emdash-page-builder](https://github.com/undefined-charity/emdash-page-builder) - Word-processor-style inline visual page editor for editing EmDash pages directly in the site's frontend styles.
@@ -504,7 +504,7 @@ Plugins add features to your site, and there are two kinds. *Sandboxed* plugins 
 
 *Add announcement bars and popups, or put custom code on every page.*
 
-- [DesiDashLab plugin pack](https://github.com/desidashlab) - Four MIT plugins from the DesiDashLab team: [Announcement Bar](https://plugins.emdashcms.com/plugins/@desidashlab.bsky.social/announcement-bar), [Header & Footer Code](https://plugins.emdashcms.com/plugins/@desidashlab.bsky.social/header-footer-code), [Share Buttons](https://plugins.emdashcms.com/plugins/@desidashlab.bsky.social/share-buttons), and [Table of Contents](https://plugins.emdashcms.com/plugins/@desidashlab.bsky.social/table-of-contents).
+- [DesiDashLab plugin pack](https://github.com/desidashlab) - Four MIT plugins from the DesiDashLab team: [Announcement Bar](https://plugins.emdashcms.com/plugins/@desidashlab.bsky.social/announcement-bar), [Header & Footer Code](https://plugins.emdashcms.com/plugins/@desidashlab.bsky.social/header-footer-code), [Share Buttons](https://plugins.emdashcms.com/plugins/@desidashlab.bsky.social/share-buttons), and [Table of Contents](https://plugins.emdashcms.com/plugins/@desidashlab.bsky.social/table-of-contents). ([Source](https://github.com/desidashlab/emdash-announcement-bar)) *Admin install*
 - [emdash-header-footer-code](https://github.com/jithinsk/emdash-header-footer-code) - Injects analytics snippets, verification meta tags, chat widgets, and custom CSS/JS into the `<head>` or `<body>` without editing theme files.
 - [emdash-plugin-code-injection](https://www.npmjs.com/package/@pagelyft/emdash-plugin-code-injection) - Injects site-wide HTML into the head, body start, and body end.
 - [Popups (`@moorage/plugin-popups`)](https://github.com/moorage-dev/moorage/tree/main/packages/plugin-popups) - Top bars, slide-ins, popups and in-page boxes using an official Forms form, at most one per visit, waiting for the cookie banner. ([npm](https://www.npmjs.com/package/@moorage/plugin-popups))
@@ -516,45 +516,45 @@ Plugins add features to your site, and there are two kinds. *Sandboxed* plugins 
 
 *Share posts to social networks automatically, and let visitors share, comment, and react.*
 
-- [BulkPublish](https://github.com/azeemkafridi/emdash-bulkpublish) - Auto-shares posts to Instagram, Facebook, X, LinkedIn, Threads, and Bluesky on publish. ([Registry](https://plugins.emdashcms.com/plugins/@bulkpublish-plugin.bsky.social/bulkpublish))
-- [emdash-plugin-social-comments](https://github.com/siygle/emdash-plugin-social-comments) - Bluesky-powered federated comment threads for EmDash posts.
-- [emdash-social-sharing](https://github.com/masonjames/emdash-social-sharing) - Privacy-light social sharing plugin for EmDash CMS.
-- [EmDash To Bluesky](https://github.com/RieTamura/EmDash-To-Bluesky) - Shares a post to Bluesky once on first publish, with title, link, and featured image. ([Registry](https://plugins.emdashcms.com/plugins/@rietamura.com/bluesky-share))
-- [emdash-to-buffer-plugin](https://github.com/devjusty/emdash-to-buffer-plugin) - Queues newly published posts to Buffer social channels. ([Registry](https://plugins.emdashcms.com/plugins/@justy.dev/emdash-to-buffer))
-- [EmDash to Buffer Plus](https://plugins.emdashcms.com/plugins/@shane.bsky.shas.am/emdash-to-buffer-plus) - Shares new entries to Buffer with formatting fitted to each network, plus delivery tracking and reports.
-- [Emoji Reactions](https://github.com/toya-mimura/emdash-plugin-emoji-reactions) - Lets visitors react to posts with emoji. ([Registry](https://plugins.emdashcms.com/plugins/@toya-mimura.bsky.social/reactions))
+- [BulkPublish](https://github.com/azeemkafridi/emdash-bulkpublish) - Auto-shares posts to Instagram, Facebook, X, LinkedIn, Threads, and Bluesky on publish. *[Admin install](https://plugins.emdashcms.com/plugins/@bulkpublish-plugin.bsky.social/bulkpublish) · External account*
+- [emdash-plugin-social-comments](https://github.com/siygle/emdash-plugin-social-comments) - Bluesky-powered federated comment threads for EmDash posts. *External account*
+- [emdash-social-sharing](https://github.com/masonjames/emdash-social-sharing) - Privacy-light social sharing plugin for EmDash CMS. *Inactive*
+- [EmDash To Bluesky](https://github.com/RieTamura/EmDash-To-Bluesky) - Shares a post to Bluesky once on first publish, with title, link, and featured image. *[Admin install](https://plugins.emdashcms.com/plugins/@rietamura.com/bluesky-share) · External account*
+- [emdash-to-buffer-plugin](https://github.com/devjusty/emdash-to-buffer-plugin) - Queues newly published posts to Buffer social channels. *[Admin install](https://plugins.emdashcms.com/plugins/@justy.dev/emdash-to-buffer) · External account*
+- [EmDash to Buffer Plus](https://plugins.emdashcms.com/plugins/@shane.bsky.shas.am/emdash-to-buffer-plus) - Shares new entries to Buffer with formatting fitted to each network, plus delivery tracking and reports. ([Source](https://github.com/shanelord01/emdash-to-buffer-plus)) *Admin install · External account*
+- [Emoji Reactions](https://github.com/toya-mimura/emdash-plugin-emoji-reactions) - Lets visitors react to posts with emoji. *[Admin install](https://plugins.emdashcms.com/plugins/@toya-mimura.bsky.social/reactions)*
 
 ### Import & Sync
 
 *Bring content in from Notion, Obsidian, RSS feeds, and Bluesky.*
 
-- [Bluesky To EmDash](https://github.com/RieTamura/Bluesky-To-EmDash) - Syncs the site owner's Bluesky posts into an EmDash collection. ([Registry](https://plugins.emdashcms.com/plugins/@rietamura.com/bluesky-feed))
-- [emdash-notion](https://github.com/kjfsm/emdash-notion) - Webhook synchronization of Notion pages and databases into EmDash collections as Portable Text. ([npm](https://www.npmjs.com/package/@emdash-notion/sync))
+- [Bluesky To EmDash](https://github.com/RieTamura/Bluesky-To-EmDash) - Syncs the site owner's Bluesky posts into an EmDash collection. *[Admin install](https://plugins.emdashcms.com/plugins/@rietamura.com/bluesky-feed) · External account*
+- [emdash-notion](https://github.com/kjfsm/emdash-notion) - Webhook synchronization of Notion pages and databases into EmDash collections as Portable Text. ([npm](https://www.npmjs.com/package/@emdash-notion/sync)) *External account*
 - [emdash-rss-aggregator](https://github.com/EngDawood/emdash-rss-aggregator) - RSS/Atom feed importer and aggregator that ingests external feeds as first-class EmDash content entries.
-- [obsidian-pensieve-publisher](https://github.com/deathemperor/obsidian-pensieve-publisher) - Publish notes and articles directly from Obsidian to your EmDash CMS.
-- [RSS Feed To EmDash](https://github.com/RieTamura/RSSFeed-To-EmDash) - Syncs YouTube, note, Zenn, and Hatena Blog feeds into a collection. ([Registry](https://plugins.emdashcms.com/plugins/@rietamura.com/rss-feed))
+- [obsidian-pensieve-publisher](https://github.com/deathemperor/obsidian-pensieve-publisher) - Publish notes and articles directly from Obsidian to your EmDash CMS. *Inactive*
+- [RSS Feed To EmDash](https://github.com/RieTamura/RSSFeed-To-EmDash) - Syncs YouTube, note, Zenn, and Hatena Blog feeds into a collection. *[Admin install](https://plugins.emdashcms.com/plugins/@rietamura.com/rss-feed)*
 
 ### Editorial Workflow & Maintenance
 
 *Approvals, schedules, checklists, and tools that keep content and links healthy.*
 
-- [Automations (HandyPlugins)](https://github.com/HandyPlugins/emdash-automations) - Trigger and action automations. ([Registry](https://plugins.emdashcms.com/plugins/@handyplugins.co/automations))
-- [Auto Unpublish Posts (Peachfin)](https://plugins.emdashcms.com/plugins/@peachfinthemes.com/auto-unpublish-posts) - Unpublishes, trashes, or retags posts on a date, with email alerts.
-- [Content Approval (`@moorage.dev/approvals`)](https://github.com/moorage-dev/moorage/tree/main/packages/plugin-approvals) - Publish becomes a request a second person approves or sends back with a note, including changes made over MCP. ([Registry](https://plugins.emdashcms.com/plugins/@moorage.dev/approvals))
-- [Content Expiry (`@agenticecom.net/content-expiry`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/content-expiry) - Automatically unpublishes, trashes, or retags time-sensitive posts and offers on a scheduled expiration date.
-- [Content Review Planner (`@agenticecom.net/content-review-freshness`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/content-review-freshness) - Assigns content owners and review due dates to track pages overdue for editorial verification.
-- [Duplicate Media Finder (`@agenticecom.net/duplicate-media-report`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/duplicate-media-report) - Finds identical files uploaded more than once so you can review duplicates in the media library.
-- [Editorial Review & Approvals (`@agenticecom.net/editorial-approvals`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/editorial-approvals) - Multi-editor approval workflow recording review feedback, requested changes, sign-offs, and post-review edit flags.
+- [Automations (HandyPlugins)](https://github.com/HandyPlugins/emdash-automations) - Trigger and action automations. *[Admin install](https://plugins.emdashcms.com/plugins/@handyplugins.co/automations)*
+- [Auto Unpublish Posts (Peachfin)](https://plugins.emdashcms.com/plugins/@peachfinthemes.com/auto-unpublish-posts) - Unpublishes, trashes, or retags posts on a date, with email alerts. *Admin install*
+- [Content Approval (`@moorage.dev/approvals`)](https://github.com/moorage-dev/moorage/tree/main/packages/plugin-approvals) - Publish becomes a request a second person approves or sends back with a note, including changes made over MCP. *[Admin install](https://plugins.emdashcms.com/plugins/@moorage.dev/approvals)*
+- [Content Expiry (`@agenticecom.net/content-expiry`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/content-expiry) - Automatically unpublishes, trashes, or retags time-sensitive posts and offers on a scheduled expiration date. *Admin install*
+- [Content Review Planner (`@agenticecom.net/content-review-freshness`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/content-review-freshness) - Assigns content owners and review due dates to track pages overdue for editorial verification. *Admin install*
+- [Duplicate Media Finder (`@agenticecom.net/duplicate-media-report`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/duplicate-media-report) - Finds identical files uploaded more than once so you can review duplicates in the media library. *Admin install*
+- [Editorial Review & Approvals (`@agenticecom.net/editorial-approvals`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/editorial-approvals) - Multi-editor approval workflow recording review feedback, requested changes, sign-offs, and post-review edit flags. *Admin install*
 - [emdash-plugin-content-freshness](https://github.com/eisbachcode/emdash-plugin-content-freshness) - Scheduled content auditor that flags stale entries, missing SEO descriptions, forgotten drafts, and missed schedules.
 - [emdash-plugin-content-link-check](https://github.com/eisbachcode/emdash-plugin-content-link-check) - Checks the links in your content on a schedule and reports broken links, dead domains, and redirects in the admin.
-- [emdash-simple-history](https://github.com/masonjames/emdash-simple-history) - Focused activity feed recording content create, update, and delete events, surfaced in an admin history page and dashboard widget.
-- [Link Guardian (`@meekmedia.bsky.social/link-guardian`)](https://plugins.emdashcms.com/plugins/@meekmedia.bsky.social/link-guardian) - Finds broken and redirected links, flags stale links after slug changes, and manages redirects.
-- [Missing Image Finder (`@agenticecom.net/missing-media-references`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/missing-media-references) - Finds content that references missing media-library images, showing the affected entry and field.
-- [Pinnacle suite](https://plugins.emdashcms.com/plugins/@pinnacleplugins.com/pinnacle-editorial-workflow) - Seven v1.0 editorial plugins, starting with Editorial Workflow (approvals, calendar, review queue), plus [Bulk Editor](https://plugins.emdashcms.com/plugins/@pinnacleplugins.com/pinnacle-bulk-editor), [Content Backups](https://plugins.emdashcms.com/plugins/@pinnacleplugins.com/pinnacle-content-backups) to R2 or S3, [Export & Feeds](https://plugins.emdashcms.com/plugins/@pinnacleplugins.com/pinnacle-export-feeds) (CSV, JSON, Google Merchant, RSS, Atom), [Feed Import](https://plugins.emdashcms.com/plugins/@pinnacleplugins.com/pinnacle-feed-import), [File Import](https://plugins.emdashcms.com/plugins/@pinnacleplugins.com/pinnacle-file-import), and [Sheets Sync](https://plugins.emdashcms.com/plugins/@pinnacleplugins.com/pinnacle-sheets-sync) (Google Sheets, Airtable, Notion).
-- [Preflight (meekmedia)](https://plugins.emdashcms.com/plugins/@meekmedia.bsky.social/preflight) - Pre-publish checklist that blocks or warns on short posts, missing excerpts, and missing alt text.
-- [Safe Bulk Find & Replace (`@agenticecom.net/safe-bulk-replace`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/safe-bulk-replace) - Previews and applies bulk text replacements across entries as staged draft edits.
-- [SiteGraph Lite (`@krushnaraval.bsky.social/sitegraph-lite`)](https://plugins.emdashcms.com/plugins/@krushnaraval.bsky.social/sitegraph-lite) - Maps internal page dependencies and detects broken internal links before content is modified or unpublished.
-- [Site Health & Broken Links (`@moorage.dev/site-health`)](https://github.com/moorage-dev/moorage/tree/main/packages/plugin-site-health) - Broken link checker for pages, menus and outbound links, with email alerts and a setup checklist. ([Registry](https://plugins.emdashcms.com/plugins/@moorage.dev/site-health))
+- [emdash-simple-history](https://github.com/masonjames/emdash-simple-history) - Focused activity feed recording content create, update, and delete events, surfaced in an admin history page and dashboard widget. *[Admin install](https://plugins.emdashcms.com/plugins/@masonjames.com/simple-history)*
+- [Link Guardian (`@meekmedia.bsky.social/link-guardian`)](https://plugins.emdashcms.com/plugins/@meekmedia.bsky.social/link-guardian) - Finds broken and redirected links, flags stale links after slug changes, and manages redirects. *Admin install*
+- [Missing Image Finder (`@agenticecom.net/missing-media-references`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/missing-media-references) - Finds content that references missing media-library images, showing the affected entry and field. *Admin install*
+- [Pinnacle suite](https://plugins.emdashcms.com/plugins/@pinnacleplugins.com/pinnacle-editorial-workflow) - Seven v1.0 editorial plugins, starting with Editorial Workflow (approvals, calendar, review queue), plus [Bulk Editor](https://plugins.emdashcms.com/plugins/@pinnacleplugins.com/pinnacle-bulk-editor), [Content Backups](https://plugins.emdashcms.com/plugins/@pinnacleplugins.com/pinnacle-content-backups) to R2 or S3, [Export & Feeds](https://plugins.emdashcms.com/plugins/@pinnacleplugins.com/pinnacle-export-feeds) (CSV, JSON, Google Merchant, RSS, Atom), [Feed Import](https://plugins.emdashcms.com/plugins/@pinnacleplugins.com/pinnacle-feed-import), [File Import](https://plugins.emdashcms.com/plugins/@pinnacleplugins.com/pinnacle-file-import), and [Sheets Sync](https://plugins.emdashcms.com/plugins/@pinnacleplugins.com/pinnacle-sheets-sync) (Google Sheets, Airtable, Notion). *Admin install*
+- [Preflight (meekmedia)](https://plugins.emdashcms.com/plugins/@meekmedia.bsky.social/preflight) - Pre-publish checklist that blocks or warns on short posts, missing excerpts, and missing alt text. *Admin install*
+- [Safe Bulk Find & Replace (`@agenticecom.net/safe-bulk-replace`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/safe-bulk-replace) - Previews and applies bulk text replacements across entries as staged draft edits. *Admin install*
+- [SiteGraph Lite (`@krushnaraval.bsky.social/sitegraph-lite`)](https://plugins.emdashcms.com/plugins/@krushnaraval.bsky.social/sitegraph-lite) - Maps internal page dependencies and detects broken internal links before content is modified or unpublished. ([Source](https://github.com/ravalkrushna1/sitegraph)) *Admin install*
+- [Site Health & Broken Links (`@moorage.dev/site-health`)](https://github.com/moorage-dev/moorage/tree/main/packages/plugin-site-health) - Broken link checker for pages, menus and outbound links, with email alerts and a setup checklist. *[Admin install](https://plugins.emdashcms.com/plugins/@moorage.dev/site-health)*
 
 ---
 
@@ -575,18 +575,18 @@ Plugins add features to your site, and there are two kinds. *Sandboxed* plugins 
 *Community skills, agents, and plugins that help AI work with EmDash sites.*
 
 - [ChangeWard](https://github.com/mirza-rizvi/ChangeWard) - Content integrity and change-monitoring plugin with MCP tools that logs modifications, monitors protected pages, and blocks rule-violating publishes.
-- [EdgeEver Sync (`@otscup.bsky.social/edgeever-sync`)](https://plugins.emdashcms.com/plugins/@otscup.bsky.social/edgeever-sync) - Synchronizes EdgeEver memos into EmDash blog posts over MCP.
+- [EdgeEver Sync (`@otscup.bsky.social/edgeever-sync`)](https://plugins.emdashcms.com/plugins/@otscup.bsky.social/edgeever-sync) - Synchronizes EdgeEver memos into EmDash blog posts over MCP. ([Source](https://github.com/otscup/edgeever-sync)) *Admin install · External account*
 - [emdash-akari](https://github.com/bnomei/emdash-akari) - Agent-focused discovery CLI for inspecting nested content structures and JSON models.
 - [emdash-claude-skills](https://github.com/EngDawood/emdash-claude-skills) - Claude skills and investigation agents for building Astro + Cloudflare sites with EmDash.
-- [EmDash Preflight (`@jammaru.com/preflight`)](https://plugins.emdashcms.com/plugins/@jammaru.com/preflight) - Enforces deterministic publishing policies across human editors, REST API, MCP, autonomous agents, and scheduled publishes.
-- [emdash-skills](https://github.com/OziNetworkVN/emdash-skills) - Community skill library and agent workflows for building and maintaining EmDash with AI.
+- [EmDash Preflight (`@jammaru.com/preflight`)](https://plugins.emdashcms.com/plugins/@jammaru.com/preflight) - Enforces deterministic publishing policies across human editors, REST API, MCP, autonomous agents, and scheduled publishes. ([Source](https://github.com/jammaru/emdash-preflight)) *Admin install*
+- [emdash-skills](https://github.com/OziNetworkVN/emdash-skills) - Community skill library and agent workflows for building and maintaining EmDash with AI. *Inactive*
 - [emdash-vibe-editor](https://www.npmjs.com/package/emdash-vibe-editor) - Front-end "vibe editing" for EmDash: click text and images on the live site and edit them with AI.
 - [jdevalk/skills](https://github.com/jdevalk/skills) - Multi-agent skill bundle covering EmDash plugins, Astro integration, WordPress migration, and SEO.
-- [LLMs.txt Publisher (`@agenticecom.net/llms-txt`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/llms-txt) - Sandboxed registry plugin that generates an `llms.txt` index and companion Markdown pages to help AI agents navigate published site content.
+- [LLMs.txt Publisher (`@agenticecom.net/llms-txt`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/llms-txt) - Sandboxed registry plugin that generates an `llms.txt` index and companion Markdown pages to help AI agents navigate published site content. *Admin install*
 - [lynx-emdash](https://github.com/realmag777/lynx-emdash) - Bulk content editor and AI-agent tools for EmDash.
 - [migrate-site-skill](https://github.com/Iceberg-Media/migrate-site-skill) - AI agent skill scaffold for converting legacy sites into Astro + EmDash.
 - [n8n-nodes-emdash](https://github.com/BlackSwampAI/n8n-nodes-emdash) - Community n8n nodes for automating publishing workflows and managing EmDash collections. ([npm](https://www.npmjs.com/package/@blackswampai/n8n-nodes-emdash))
-- [Tracy](https://github.com/TracyHQ/tracy) - AI agent that edits running EmDash, WordPress, and Joomla sites through natural language, with diff review and rollback. ([Website](https://tracy.ai))
+- [Tracy](https://github.com/TracyHQ/tracy) - AI agent that edits running EmDash, WordPress, and Joomla sites through natural language, with diff review and rollback. ([Website](https://tracy.ai)) *External account*
 
 ---
 
@@ -618,12 +618,12 @@ Plugins add features to your site, and there are two kinds. *Sandboxed* plugins 
 - [emdash-multisite](https://github.com/theweekendprojects/emdash-multisite) - WordPress Multisite-style support: runs many sites from one Cloudflare Worker and one D1 database, with per-site isolation. ([npm](https://www.npmjs.com/package/emdash-multisite))
 - [emdash-platform-wfp](https://github.com/scottbuscemi/emdash-platform-wfp) - Multi-tenant prompt-to-site generator built on Cloudflare Workers for Platforms + EmDash.
 - [emdash-plugin-deploy-trigger](https://github.com/leCielEtoile/emdash-plugin-deploy-trigger) - Triggers Cloudflare Pages deploy hooks on a configurable schedule from EmDash.
-- [emdash-plugin-github-backup](https://github.com/dennisklappe/emdash-plugin-github-backup) - Backs up collection content to a GitHub repository on every edit for file-based Git versioning.
-- [emdash-render](https://github.com/awesomeem/emdash-render) - Direct D1 reader and Portable Text renderer for ultra-low latency edge consumption (Hono / Cloudflare Workers).
+- [emdash-plugin-github-backup](https://github.com/dennisklappe/emdash-plugin-github-backup) - Backs up collection content to a GitHub repository on every edit for file-based Git versioning. *External account*
+- [emdash-render](https://github.com/awesomeem/emdash-render) - Direct D1 reader and Portable Text renderer for ultra-low latency edge consumption (Hono / Cloudflare Workers). *Inactive*
 - [emdash-run](https://github.com/joeblew999/emdash-run) - Fast local runner for EmDash development using `mise` and `pitchfork`.
 - [emdash-taki](https://github.com/bnomei/emdash-taki) - Head waterfall preloading and dynamic resource optimizations for Astro + Cloudflare.
-- [GitHub Sync (`@inari.diy/github-sync`)](https://plugins.emdashcms.com/plugins/@inari.diy/github-sync) - Bi-directional GitHub repository synchronization that commits EmDash content changes as Markdown and syncs `git push` updates back.
-- [Sandboxed Plugin Example](https://github.com/azydeco/emdash-plugin-shell) - Reference native and sandboxed plugin builds to start new plugins from. ([Registry](https://plugins.emdashcms.com/plugins/@azydeco.com/emdash-plugin-sandboxed-example))
+- [GitHub Sync (`@inari.diy/github-sync`)](https://plugins.emdashcms.com/plugins/@inari.diy/github-sync) - Bi-directional GitHub repository synchronization that commits EmDash content changes as Markdown and syncs `git push` updates back. ([Source](https://github.com/inaridiy/inaridiy.com)) *Admin install · External account*
+- [Sandboxed Plugin Example](https://github.com/azydeco/emdash-plugin-shell) - Reference native and sandboxed plugin builds to start new plugins from. *[Admin install](https://plugins.emdashcms.com/plugins/@azydeco.com/emdash-plugin-sandboxed-example)*
 
 ---
 
@@ -652,8 +652,8 @@ Plugins add features to your site, and there are two kinds. *Sandboxed* plugins 
 *Run EmDash in containers or on your own VPS.*
 
 - [docker-emdash (jstgnkl)](https://github.com/jstgnkl/docker-emdash) - Clean Dockerfile configuration for building self-hosted EmDash images.
-- [EmdashDeploy](https://github.com/web-casa/EmdashDeploy) - Interactive VPS deployment script featuring automated Docker setup, Caddy reverse proxy, and backup utilities.
-- [emdash-docker (mariandenys)](https://github.com/mariandenys/emdash-docker) - Minimal Docker Compose setup that spins up a full local EmDash blog in three commands.
+- [EmdashDeploy](https://github.com/web-casa/EmdashDeploy) - Interactive VPS deployment script featuring automated Docker setup, Caddy reverse proxy, and backup utilities. *Inactive*
+- [emdash-docker (mariandenys)](https://github.com/mariandenys/emdash-docker) - Minimal Docker Compose setup that spins up a full local EmDash blog in three commands. *Pre-1.0 · Inactive*
 - [emdash-docker (rubengmez)](https://github.com/rubengmez/emdash-docker) - Multi-architecture OCI images automatically rebuilt against upstream EmDash releases.
 - [emdash-panel](https://github.com/bitdoze/emdash-panel) - Open-source (MIT) single-VPS hosting panel for EmDash with multi-site management, HTTPS, backups, metrics, and deployments.
 
@@ -679,13 +679,13 @@ Plugins add features to your site, and there are two kinds. *Sandboxed* plugins 
 *Convert and import content from WordPress, WooCommerce, Movable Type, Hatena Blog, CSV, and JSON.*
 
 - [wp-emdash](https://github.com/emdash-cms/wp-emdash) - Official companion WordPress plugin to export posts, pages, users, media, and taxonomies into EmDash seed format.
-- [`@emdash-cms/gutenberg-to-portable-text`](https://www.npmjs.com/package/@emdash-cms/gutenberg-to-portable-text) - Official AST parser converting WordPress Gutenberg blocks into Portable Text JSON.
+- [`@emdash-cms/gutenberg-to-portable-text`](https://www.npmjs.com/package/@emdash-cms/gutenberg-to-portable-text) - Official AST parser converting WordPress Gutenberg blocks into Portable Text JSON. ([Source](https://github.com/emdash-cms/emdash))
 - [hatena-to-emdash](https://github.com/ochanuco/hatena-to-emdash) - CLI tool to convert Hatena Blog Movable Type exports into EmDash-ready Markdown.
-- [emdash-mt-import](https://github.com/kennyg/emdash-mt-import) - CLI importer translating standard Movable Type blog archives into EmDash seed JSON.
+- [emdash-mt-import](https://github.com/kennyg/emdash-mt-import) - CLI importer translating standard Movable Type blog archives into EmDash seed JSON. *Inactive*
 - [`@sneaps/import-export`](https://www.npmjs.com/package/@sneaps/import-export) - Native EmDash plugin to bulk import and export collection items as CSV or JSON.
-- [Import (`@handyplugins.co/import`)](https://plugins.emdashcms.com/plugins/@handyplugins.co/import) - Sandboxed registry plugin for importing structured CSV and JSON datasets into EmDash collections.
-- [Link Find & Replace (`@agenticecom.net/link-repair-migration`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/link-repair-migration) - Previews and applies old-to-new URL replacements across content entries during domain or site migrations.
-- [WooCommerce Migration (Moksa)](https://plugins.emdashcms.com/plugins/@moksaweb.com/moksa-woocommerce) - Migrates WooCommerce products (CSV with images), customers, coupons, and order history.
+- [Import (`@handyplugins.co/import`)](https://plugins.emdashcms.com/plugins/@handyplugins.co/import) - Sandboxed registry plugin for importing structured CSV and JSON datasets into EmDash collections. ([Source](https://github.com/HandyPlugins/emdash-import)) *Admin install*
+- [Link Find & Replace (`@agenticecom.net/link-repair-migration`)](https://plugins.emdashcms.com/plugins/@agenticecom.net/link-repair-migration) - Previews and applies old-to-new URL replacements across content entries during domain or site migrations. *Admin install*
+- [WooCommerce Migration (Moksa)](https://plugins.emdashcms.com/plugins/@moksaweb.com/moksa-woocommerce) - Migrates WooCommerce products (CSV with images), customers, coupons, and order history. *Admin install*
 
 ---
 
@@ -841,6 +841,17 @@ Plugins add features to your site, and there are two kinds. *Sandboxed* plugins 
 | R2                           | Cloudflare's storage for files and media.                                                                                                  |
 | Sandboxed plugin             | A plugin that runs isolated from the rest of the site and can only do what its declared permissions allow.                                 |
 | x402                         | A way to charge for content or API calls using the HTTP 402 "Payment Required" status.                                                     |
+
+Labels at the end of an entry:
+
+| Label              | Meaning                                                                                                                                                           |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Admin install*    | Listed on the plugin registry, so a site admin can install it from the admin panel without code. When the label is a link, it goes to the plugin's registry page. |
+| *External account* | Needs an account with another company's service, such as an email provider or payment processor. The account may be free.                                         |
+| *Paid*             | Costs money to use.                                                                                                                                               |
+| *Pre-1.0*          | Only declares support for EmDash 0.x, so it may not work on a current site.                                                                                       |
+| *Inactive*         | No updates in the last six months.                                                                                                                                |
+| *Closed source*    | No public source code.                                                                                                                                            |
 
 ---
 
